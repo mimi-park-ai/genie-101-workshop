@@ -80,3 +80,7 @@ tasks) are new or in preview, and Free Edition support for them was not confirme
 written.
 
 Questions? Contact Mimi Park (mimi.park@databricks.com).
+
+## License
+
+[MIT](LICENSE): free to use, copy, and adapt for your own workshops, as long as you keep the copyright notice.
