@@ -1,0 +1,1013 @@
+customer_id,full_name,email,segment,age_band,tenure_years,preferred_channel,city,onboard_date
+CUST-00001,Priya Smith,priya.smith1@example.com,RETAIL,55-64,8,CALL_CENTER,Denton,2018-07-15
+CUST-00002,Emily Jones,emily.jones2@example.com,RETAIL,65+,7,BRANCH,Dallas,2019-07-10
+CUST-00003,Sophie Ahmed,sophie.ahmed3@example.com,RETAIL,25-34,1,ONLINE,San Antonio,2025-08-15
+CUST-00004,Priya Patel,priya.patel4@example.com,RETAIL,55-64,12,CALL_CENTER,Dallas,2014-05-15
+CUST-00005,George Patel,george.patel5@example.com,RETAIL,65+,21,CALL_CENTER,San Antonio,2004-12-28
+CUST-00006,Mary Garcia,mary.garcia6@example.com,PREMIER,65+,3,ONLINE,Plano,2023-07-09
+CUST-00007,Amara Singh,amara.singh7@example.com,RETAIL,25-34,22,MOBILE,Denton,2004-06-26
+CUST-00008,Amara Ahmed,amara.ahmed8@example.com,RETAIL,18-24,21,MOBILE,San Antonio,2004-11-22
+CUST-00009,Mary Murphy,mary.murphy9@example.com,RETAIL,35-44,3,MOBILE,El Paso,2023-07-20
+CUST-00010,Grace Clarke,grace.clarke10@example.com,PREMIER,55-64,21,ONLINE,Fort Worth,2005-03-20
+CUST-00011,Emily Clarke,emily.clarke11@example.com,RETAIL,25-34,5,MOBILE,Dallas,2021-02-18
+CUST-00012,Emily Patel,emily.patel12@example.com,RETAIL,18-24,20,CALL_CENTER,Frisco,2006-03-15
+CUST-00013,Mei Evans,mei.evans13@example.com,PREMIER,65+,11,ONLINE,Fort Worth,2015-09-11
+CUST-00014,Carlos Khan,carlos.khan14@example.com,RETAIL,25-34,4,ONLINE,Frisco,2021-12-20
+CUST-00015,Amara Walsh,amara.walsh15@example.com,wealth,35-44,17,ONLINE,Arlington,2009-11-08
+CUST-00016,Sophie Jones,sophie.jones16@example.com,RETAIL,55-64,19,MOBILE,Arlington,2007-09-30
+CUST-00017,Wei Lopez,wei.lopez17@example.com,PREMIER,25-34,6,MOBILE,El Paso,2020-06-23
+CUST-00018,Olivia Clarke,olivia.clarke18@example.com,WEALTH,25-34,21,MOBILE,Frisco,2005-05-02
+CUST-00019,John Murphy,john.murphy19@example.com,retail,65+,18,CALL_CENTER,Dallas,2008-07-14
+CUST-00020,Sophie Patel,sophie.patel20@example.com,PREMIER,25-34,11,MOBILE,Houston,2015-10-02
+CUST-00021,Grace Garcia,grace.garcia21@example.com,PREMIER,45-54,14,BRANCH,Plano,2012-08-02
+CUST-00022,Mary Brown,mary.brown22@example.com,RETAIL,25-34,24,BRANCH,Denton,2002-05-21
+CUST-00023,Wei Nguyen,wei.nguyen23@example.com,RETAIL,55-64,15,CALL_CENTER,Denton,2011-07-04
+CUST-00024,Mary Walsh,mary.walsh24@example.com,PREMIER,45-54,3,CALL_CENTER,Arlington,2023-07-07
+CUST-00025,Amara Clarke,amara.clarke25@example.com,RETAIL,65+,13,BRANCH,Arlington,2013-06-25
+CUST-00026,Wei Taylor,wei.taylor26@example.com,RETAIL,18-24,2,CALL_CENTER,Dallas,2024-01-13
+CUST-00027,Grace Kim,grace.kim27@example.com,Premier,25-34,17,CALL_CENTER,Frisco,2009-08-20
+CUST-00028,John Garcia,john.garcia28@example.com,RETAIL,45-54,19,ONLINE,Dallas,2007-07-06
+CUST-00029,Mohammed Taylor,mohammed.taylor29@example.com,RETAIL,35-44,11,BRANCH,Fort Worth,2015-07-08
+CUST-00030,Liam Patel,liam.patel30@example.com,RETAIL,55-64,20,ONLINE,Denton,2006-01-25
+CUST-00031,Wei Singh,wei.singh31@example.com,PREMIER,65+,8,ONLINE,Arlington,2018-05-01
+CUST-00032,Carlos Smith,carlos.smith32@example.com,RETAIL,25-34,18,ONLINE,Denton,2008-06-08
+CUST-00033,Priya Brown,priya.brown33@example.com,RETAIL,25-34,5,ONLINE,Austin,2021-06-19
+CUST-00034,Carlos Lopez,carlos.lopez34@example.com,retail,35-44,2,MOBILE,Houston,2024-09-18
+CUST-00035,Mohammed Khan,mohammed.khan35@example.com,Retail,65+,18,MOBILE,Dallas,2007-11-13
+CUST-00036,Mei Jones,mei.jones36@example.com,premier,35-44,19,CALL_CENTER,Fort Worth,2007-01-31
+CUST-00037,Aisha Taylor,aisha.taylor37@example.com,RETAIL,45-54,22,MOBILE,Frisco,2004-09-18
+CUST-00038,Sophie Khan,sophie.khan38@example.com,WEALTH,35-44,6,BRANCH,,2020-04-08
+CUST-00039,Sophie Evans,sophie.evans39@example.com,RETAIL,25-34,23,MOBILE,Dallas,2003-09-16
+CUST-00040,Raj Singh,raj.singh40@example.com,RETAIL,35-44,8,ONLINE,,2018-07-15
+CUST-00041,John Evans,john.evans41@example.com,RETAIL,18-24,17,CALL_CENTER,Frisco,2009-04-18
+CUST-00042,Mohammed Khan,mohammed.khan42@example.com,RETAIL,35-44,9,BRANCH,Plano,2017-10-18
+CUST-00043,Carlos Brown,carlos.brown43@example.com,retail,55-64,19,MOBILE,Plano,2007-08-04
+CUST-00044,Aisha Nguyen,aisha.nguyen44@example.com,RETAIL,35-44,22,ONLINE,Denton,2004-05-24
+CUST-00045,Emily Murphy,emily.murphy45@example.com,RETAIL,45-54,10,MOBILE,Plano,2016-01-28
+CUST-00046,Olivia Clarke,olivia.clarke46@example.com,RETAIL,55-64,1,ONLINE,Plano,2025-06-02
+CUST-00047,Raj Ahmed,raj.ahmed47@example.com,RETAIL,35-44,7,ONLINE,Fort Worth,2019-02-18
+CUST-00048,John Garcia,john.garcia48@example.com,RETAIL,45-54,8,CALL_CENTER,Dallas,2018-07-28
+CUST-00049,Raj Nguyen,raj.nguyen49@example.com,PREMIER,25-34,19,MOBILE,Plano,2007-08-02
+CUST-00050,James Brown,james.brown50@example.com,PREMIER,55-64,8,MOBILE,Frisco,2018-08-08
+CUST-00051,Priya Ahmed,priya.ahmed51@example.com,RETAIL,45-54,15,BRANCH,Frisco,2010-12-02
+CUST-00052,Mei Ahmed,mei.ahmed52@example.com,PREMIER,35-44,24,BRANCH,Austin,2002-03-12
+CUST-00053,Sophie Evans,sophie.evans53@example.com,RETAIL,55-64,23,CALL_CENTER,San Antonio,2003-06-17
+CUST-00054,Wei Wilson,wei.wilson54@example.com,RETAIL,35-44,23,BRANCH,Denton,2003-08-24
+CUST-00055,Emily Jones,emily.jones55@example.com,RETAIL,18-24,14,BRANCH,El Paso,2012-04-22
+CUST-00056,Grace Smith,grace.smith56@example.com,PREMIER,65+,10,MOBILE,Plano,2016-04-21
+CUST-00057,Grace Garcia,grace.garcia57@example.com,RETAIL,45-54,16,MOBILE,Plano,2010-10-25
+CUST-00058,Mei Smith,mei.smith58@example.com,PREMIER,25-34,19,BRANCH,Denton,2007-01-25
+CUST-00059,Amara Jones,amara.jones59@example.com,RETAIL,45-54,11,ONLINE,San Antonio,2015-07-22
+CUST-00060,Emily Evans,emily.evans60@example.com,PREMIER,35-44,16,MOBILE,Dallas,2010-10-30
+CUST-00061,John Jones,john.jones61@example.com, PREMIER ,25-34,8,BRANCH,El Paso,2018-07-27
+CUST-00062,Priya Taylor,priya.taylor62@example.com,RETAIL,65+,9,CALL_CENTER,El Paso,2017-05-02
+CUST-00063,Amara Okafor,amara.okafor63@example.com,RETAIL,65+,1,MOBILE,Plano,2025-05-29
+CUST-00064,John Garcia,john.garcia64@example.com,RETAIL,55-64,25,CALL_CENTER,El Paso,2001-06-09
+CUST-00065,Aisha Walsh,aisha.walsh65@example.com,retail,45-54,12,BRANCH,San Antonio,2014-10-03
+CUST-00066,Priya Nguyen,priya.nguyen66@example.com, WEALTH ,55-64,21,ONLINE,Plano,2005-03-19
+CUST-00067,Mei Lopez,mei.lopez67@example.com,RETAIL,18-24,24,ONLINE,Austin,2002-01-11
+CUST-00068,Raj Garcia,raj.garcia68@example.com,premier,35-44,19,MOBILE,San Antonio,2007-01-01
+CUST-00069,Grace Taylor,grace.taylor69@example.com,RETAIL,35-44,9,CALL_CENTER,El Paso,2017-05-16
+CUST-00070,Carlos Taylor,carlos.taylor70@example.com,RETAIL,65+,24,BRANCH,Austin,2002-04-16
+CUST-00071,Raj Smith,raj.smith71@example.com,RETAIL,35-44,8,BRANCH,Houston,2018-04-13
+CUST-00072,Mei Kim,mei.kim72@example.com,RETAIL,35-44,24,MOBILE,Arlington,2002-02-02
+CUST-00073,Priya Taylor,priya.taylor73@example.com,RETAIL,65+,24,BRANCH,Fort Worth,2002-02-09
+CUST-00074,Mohammed Kim,mohammed.kim74@example.com, RETAIL ,18-24,4,MOBILE,San Antonio,2022-07-29
+CUST-00075,Mohammed Jones,mohammed.jones75@example.com,WEALTH,45-54,18,CALL_CENTER,Fort Worth,2008-06-12
+CUST-00076,James Okafor,james.okafor76@example.com,RETAIL,45-54,15,CALL_CENTER,Dallas,2011-05-18
+CUST-00077,John Clarke,john.clarke77@example.com, RETAIL ,55-64,19,ONLINE,Fort Worth,2006-12-22
+CUST-00078,John Garcia,john.garcia78@example.com,RETAIL,55-64,25,BRANCH,El Paso,2001-04-11
+CUST-00079,Raj Ahmed,raj.ahmed79@example.com,retail,65+,19,CALL_CENTER,El Paso,2007-04-04
+CUST-00080,David Taylor,david.taylor80@example.com,retail,18-24,3,BRANCH,Frisco,2023-08-17
+CUST-00081,Raj Lopez,raj.lopez81@example.com,retail,25-34,8,ONLINE,Arlington,2018-06-12
+CUST-00082,David Nguyen,david.nguyen82@example.com,RETAIL,18-24,8,CALL_CENTER,Houston,2017-12-10
+CUST-00083,Amara Okafor,amara.okafor83@example.com,RETAIL,65+,19,BRANCH,Arlington,2007-06-15
+CUST-00084,Mohammed Kim,mohammed.kim84@example.com,RETAIL,55-64,15,ONLINE,Plano,2011-09-28
+CUST-00085,James Patel,james.patel85@example.com,RETAIL,65+,22,ONLINE,Dallas,2004-01-20
+CUST-00086,Mary Khan,mary.khan86@example.com,RETAIL,45-54,21,BRANCH,Fort Worth,2005-03-28
+CUST-00087,John Lopez,john.lopez87@example.com,RETAIL,65+,11,BRANCH,Fort Worth,2015-05-27
+CUST-00088,Olivia Clarke,olivia.clarke88@example.com,PREMIER,18-24,18,BRANCH,San Antonio,2008-10-21
+CUST-00089,Carlos Smith,carlos.smith89@example.com,RETAIL,55-64,18,BRANCH,Austin,2008-03-17
+CUST-00090,Raj Jones,raj.jones90@example.com,RETAIL,45-54,18,CALL_CENTER,Arlington,2008-09-02
+CUST-00091,James Garcia,james.garcia91@example.com,RETAIL,25-34,10,CALL_CENTER,,2016-01-29
+CUST-00092,Raj Brown,raj.brown92@example.com,RETAIL,35-44,5,BRANCH,Houston,2021-02-23
+CUST-00093,Grace Lopez,grace.lopez93@example.com,RETAIL,25-34,18,CALL_CENTER,El Paso,2008-08-26
+CUST-00094,Mohammed Nguyen,mohammed.nguyen94@example.com,RETAIL,55-64,17,BRANCH,Houston,2009-06-25
+CUST-00095,Wei Ahmed,wei.ahmed95@example.com,RETAIL,35-44,12,MOBILE,Frisco,2014-05-21
+CUST-00096,Sophie Clarke,sophie.clarke96@example.com,RETAIL,45-54,25,BRANCH,Arlington,2001-04-14
+CUST-00097,Wei Lopez,wei.lopez97@example.com,WEALTH,45-54,5,CALL_CENTER,San Antonio,2021-02-21
+CUST-00098,Carlos Ahmed,carlos.ahmed98@example.com,retail,35-44,5,ONLINE,Fort Worth,2021-04-10
+CUST-00099,George Patel,george.patel99@example.com,PREMIER,45-54,22,CALL_CENTER,San Antonio,2004-02-10
+CUST-00100,John Garcia,john.garcia100@example.com,RETAIL,65+,10,CALL_CENTER,Plano,2016-07-13
+CUST-00101,Raj Khan,raj.khan101@example.com,RETAIL,35-44,1,BRANCH,Dallas,2025-10-12
+CUST-00102,Wei Garcia,wei.garcia102@example.com, RETAIL ,55-64,19,BRANCH,Fort Worth,2006-11-25
+CUST-00103,Sophie Lopez,sophie.lopez103@example.com,PREMIER,65+,5,CALL_CENTER,Houston,2021-07-10
+CUST-00104,Raj Okafor,raj.okafor104@example.com,RETAIL,35-44,6,BRANCH,San Antonio,2020-09-29
+CUST-00105,Mohammed Ahmed,mohammed.ahmed105@example.com,PREMIER,55-64,7,ONLINE,Denton,2019-04-24
+CUST-00106,Olivia Okafor,olivia.okafor106@example.com,RETAIL,65+,22,CALL_CENTER,El Paso,2004-04-21
+CUST-00107,Grace Okafor,grace.okafor107@example.com,PREMIER,55-64,8,ONLINE,Austin,2017-12-31
+CUST-00108,Wei Brown,wei.brown108@example.com,premier,35-44,21,MOBILE,Arlington,2005-10-20
+CUST-00109,John Okafor,john.okafor109@example.com,RETAIL,35-44,14,ONLINE,Frisco,2012-08-10
+CUST-00110,Amara Evans,amara.evans110@example.com,PREMIER,45-54,16,CALL_CENTER,San Antonio,2010-06-10
+CUST-00111,Wei Garcia,wei.garcia111@example.com,PREMIER,45-54,24,CALL_CENTER,Frisco,2001-11-30
+CUST-00112,Mohammed Walsh,mohammed.walsh112@example.com,RETAIL,65+,12,ONLINE,Houston,2013-11-28
+CUST-00113,Priya Garcia,priya.garcia113@example.com,RETAIL,18-24,20,BRANCH,El Paso,2006-01-26
+CUST-00114,Olivia Nguyen,olivia.nguyen114@example.com,Retail,25-34,2,MOBILE,Arlington,2024-10-16
+CUST-00115,George Ahmed,george.ahmed115@example.com,RETAIL,65+,24,MOBILE,Plano,2001-11-19
+CUST-00116,Emily Brown,emily.brown116@example.com,premier,35-44,20,MOBILE,Houston,2006-04-15
+CUST-00117,Raj Ahmed,raj.ahmed117@example.com,WEALTH,65+,12,ONLINE,San Antonio,2014-09-18
+CUST-00118,Mary Clarke,mary.clarke118@example.com,RETAIL,55-64,4,CALL_CENTER,Austin,2022-03-18
+CUST-00119,Mary Murphy,mary.murphy119@example.com,RETAIL,25-34,5,MOBILE,Frisco,2021-01-20
+CUST-00120,Liam Wilson,liam.wilson120@example.com,PREMIER,55-64,20,ONLINE,Fort Worth,2006-11-08
+CUST-00121,Amara Brown,amara.brown121@example.com,RETAIL,25-34,1,ONLINE,,2025-08-29
+CUST-00122,James Khan,james.khan122@example.com,RETAIL,35-44,5,CALL_CENTER,Denton,2021-04-04
+CUST-00123,Raj Kim,raj.kim123@example.com,RETAIL,65+,20,CALL_CENTER,Frisco,2006-10-18
+CUST-00124,Mary Lopez,mary.lopez124@example.com,premier,18-24,14,ONLINE,Arlington,2011-11-22
+CUST-00125,Wei Patel,wei.patel125@example.com,RETAIL,55-64,20,ONLINE,San Antonio,2005-12-20
+CUST-00126,Raj Kim,raj.kim126@example.com,RETAIL,25-34,4,BRANCH,Frisco,2021-11-11
+CUST-00127,Raj Garcia,raj.garcia127@example.com,RETAIL,35-44,15,ONLINE,Denton,2011-04-18
+CUST-00128,Aisha Wilson,aisha.wilson128@example.com,Retail,18-24,16,ONLINE,Denton,2010-10-05
+CUST-00129,Wei Walsh,wei.walsh129@example.com,RETAIL,65+,18,BRANCH,Denton,2008-01-26
+CUST-00130,Mary Okafor,mary.okafor130@example.com, RETAIL ,45-54,12,MOBILE,Austin,2014-09-15
+CUST-00131,Priya Singh,priya.singh131@example.com,PREMIER,45-54,12,CALL_CENTER,El Paso,2014-09-10
+CUST-00132,Mohammed Smith,mohammed.smith132@example.com,retail,25-34,23,BRANCH,San Antonio,2003-06-05
+CUST-00133,John Wilson,john.wilson133@example.com,RETAIL,45-54,1,ONLINE,Austin,2025-09-19
+CUST-00134,Amara Singh,amara.singh134@example.com, RETAIL ,55-64,11,CALL_CENTER,Dallas,2015-01-21
+CUST-00135,John Evans,john.evans135@example.com,RETAIL,55-64,14,CALL_CENTER,Plano,2012-03-04
+CUST-00136,Aisha Nguyen,aisha.nguyen136@example.com,RETAIL,18-24,22,MOBILE,Frisco,2003-11-28
+CUST-00137,George Jones,george.jones137@example.com,RETAIL,18-24,10,CALL_CENTER,Houston,2016-07-21
+CUST-00138,Grace Nguyen,grace.nguyen138@example.com,RETAIL,65+,13,ONLINE,Frisco,2013-02-08
+CUST-00139,John Clarke,john.clarke139@example.com,PREMIER,35-44,2,BRANCH,,2024-03-26
+CUST-00140,George Nguyen,george.nguyen140@example.com,RETAIL,55-64,13,BRANCH,Fort Worth,2013-10-28
+CUST-00141,Aisha Patel,aisha.patel141@example.com,RETAIL,45-54,4,ONLINE,Plano,2022-07-04
+CUST-00142,Liam Garcia,liam.garcia142@example.com,RETAIL,25-34,6,ONLINE,Denton,2020-09-27
+CUST-00143,Aisha Wilson,aisha.wilson143@example.com, RETAIL ,65+,5,CALL_CENTER,El Paso,2021-06-27
+CUST-00144,Amara Lopez,amara.lopez144@example.com,RETAIL,55-64,19,ONLINE,El Paso,2007-01-17
+CUST-00145,Liam Wilson,liam.wilson145@example.com,RETAIL,35-44,16,CALL_CENTER,Houston,2010-03-27
+CUST-00146,Olivia Ahmed,olivia.ahmed146@example.com,RETAIL,18-24,2,BRANCH,Denton,2024-04-30
+CUST-00147,Raj Walsh,raj.walsh147@example.com,WEALTH,35-44,24,BRANCH,El Paso,2002-10-20
+CUST-00148,Carlos Wilson,carlos.wilson148@example.com,WEALTH,18-24,15,MOBILE,San Antonio,2011-09-17
+CUST-00149,Mary Garcia,mary.garcia149@example.com,RETAIL,35-44,15,BRANCH,Fort Worth,2011-02-13
+CUST-00150,Emily Murphy,emily.murphy150@example.com,RETAIL,55-64,2,BRANCH,Denton,2023-12-17
+CUST-00151,Olivia Evans,olivia.evans151@example.com,Retail,65+,22,MOBILE,San Antonio,2004-01-06
+CUST-00152,Aisha Okafor,aisha.okafor152@example.com,WEALTH,18-24,23,ONLINE,El Paso,2002-12-06
+CUST-00153,Mei Clarke,mei.clarke153@example.com,Retail,65+,11,BRANCH,Frisco,2015-09-03
+CUST-00154,Carlos Singh,carlos.singh154@example.com,RETAIL,45-54,10,MOBILE,San Antonio,2016-08-06
+CUST-00155,Sophie Wilson,sophie.wilson155@example.com,RETAIL,55-64,10,CALL_CENTER,Frisco,2016-09-16
+CUST-00156,Liam Wilson,liam.wilson156@example.com,RETAIL,25-34,5,BRANCH,El Paso,2021-08-14
+CUST-00157,Mary Nguyen,mary.nguyen157@example.com,RETAIL,65+,24,BRANCH,El Paso,2002-07-12
+CUST-00158,Sophie Walsh,sophie.walsh158@example.com,RETAIL,45-54,16,ONLINE,El Paso,2010-08-01
+CUST-00159,George Kim,george.kim159@example.com,RETAIL,18-24,6,BRANCH,Fort Worth,2020-07-26
+CUST-00160,Aisha Walsh,aisha.walsh160@example.com,Premier,25-34,23,ONLINE,Houston,2003-02-19
+CUST-00161,Raj Kim,raj.kim161@example.com,RETAIL,35-44,14,CALL_CENTER,Austin,2012-09-22
+CUST-00162,Emily Jones,emily.jones162@example.com,RETAIL,18-24,12,ONLINE,Denton,2014-07-10
+CUST-00163,Priya Murphy,priya.murphy163@example.com,PREMIER,25-34,5,BRANCH,Arlington,2021-10-17
+CUST-00164,Raj Smith,raj.smith164@example.com,PREMIER,65+,1,BRANCH,Fort Worth,2025-06-26
+CUST-00165,Priya Okafor,priya.okafor165@example.com,RETAIL,18-24,4,BRANCH,El Paso,2022-10-12
+CUST-00166,Mei Smith,mei.smith166@example.com,RETAIL,55-64,19,ONLINE,Houston,2007-07-09
+CUST-00167,Sophie Nguyen,sophie.nguyen167@example.com,retail,55-64,22,CALL_CENTER,San Antonio,2004-09-27
+CUST-00168,George Lopez,george.lopez168@example.com,RETAIL,18-24,13,ONLINE,Dallas,2013-04-30
+CUST-00169,Sophie Brown,sophie.brown169@example.com,PREMIER,65+,24,MOBILE,San Antonio,2002-05-24
+CUST-00170,Raj Lopez,raj.lopez170@example.com,retail,25-34,5,CALL_CENTER,Arlington,2021-10-04
+CUST-00171,David Jones,david.jones171@example.com,RETAIL,18-24,10,MOBILE,Frisco,2016-02-17
+CUST-00172,Olivia Singh,olivia.singh172@example.com,PREMIER,45-54,2,BRANCH,Denton,2023-12-05
+CUST-00173,Raj Clarke,raj.clarke173@example.com,RETAIL,55-64,6,ONLINE,San Antonio,2020-02-25
+CUST-00174,John Nguyen,john.nguyen174@example.com,Retail,35-44,20,ONLINE,San Antonio,2006-08-09
+CUST-00175,Olivia Ahmed,olivia.ahmed175@example.com,RETAIL,65+,14,ONLINE,San Antonio,2012-08-14
+CUST-00176,Emily Evans,emily.evans176@example.com,RETAIL,65+,2,MOBILE,Plano,2024-09-27
+CUST-00177,James Wilson,james.wilson177@example.com,PREMIER,65+,22,ONLINE,Denton,2004-03-30
+CUST-00178,Aisha Clarke,aisha.clarke178@example.com,PREMIER,35-44,2,BRANCH,Arlington,2023-12-31
+CUST-00179,John Wilson,john.wilson179@example.com,RETAIL,18-24,13,MOBILE,Austin,2013-05-31
+CUST-00180,Grace Kim,grace.kim180@example.com,RETAIL,25-34,18,ONLINE,Houston,2008-09-09
+CUST-00181,Grace Taylor,grace.taylor181@example.com,RETAIL,65+,3,ONLINE,Arlington,2023-03-19
+CUST-00182,Aisha Patel,aisha.patel182@example.com,RETAIL,55-64,10,MOBILE,Fort Worth,2016-06-06
+CUST-00183,Priya Taylor,priya.taylor183@example.com,PREMIER,35-44,8,BRANCH,,2018-02-27
+CUST-00184,Mei Wilson,mei.wilson184@example.com,RETAIL,45-54,3,CALL_CENTER,Arlington,2023-10-03
+CUST-00185,Wei Murphy,wei.murphy185@example.com,Retail,55-64,15,MOBILE,San Antonio,2011-03-15
+CUST-00186,Wei Nguyen,wei.nguyen186@example.com, RETAIL ,35-44,2,MOBILE,Houston,2024-09-02
+CUST-00187,Aisha Kim,aisha.kim187@example.com,PREMIER,65+,3,ONLINE,Frisco,2023-06-30
+CUST-00188,Mei Patel,mei.patel188@example.com, RETAIL ,55-64,6,ONLINE,Fort Worth,2020-01-07
+CUST-00189,Mary Smith,mary.smith189@example.com,RETAIL,45-54,21,CALL_CENTER,Austin,2005-01-18
+CUST-00190,Grace Walsh,grace.walsh190@example.com,RETAIL,18-24,10,CALL_CENTER,Plano,2016-03-04
+CUST-00191,Amara Ahmed,amara.ahmed191@example.com,RETAIL,65+,15,ONLINE,Fort Worth,2011-07-27
+CUST-00192,Aisha Clarke,aisha.clarke192@example.com,RETAIL,18-24,12,ONLINE,San Antonio,2014-02-17
+CUST-00193,Raj Garcia,raj.garcia193@example.com,RETAIL,25-34,2,ONLINE,El Paso,2024-06-09
+CUST-00194,Liam Taylor,liam.taylor194@example.com,PREMIER,18-24,16,BRANCH,Houston,2010-02-18
+CUST-00195,Carlos Ahmed,carlos.ahmed195@example.com,WEALTH,55-64,7,BRANCH,Dallas,2019-01-12
+CUST-00196,Olivia Walsh,olivia.walsh196@example.com,RETAIL,45-54,4,ONLINE,Houston,2022-03-30
+CUST-00197,Mary Clarke,mary.clarke197@example.com,retail,55-64,18,BRANCH,Houston,2008-08-01
+CUST-00198,Mei Evans,mei.evans198@example.com,PREMIER,45-54,20,ONLINE,Fort Worth,2005-11-26
+CUST-00199,Liam Walsh,liam.walsh199@example.com,PREMIER,18-24,25,CALL_CENTER,Frisco,2001-08-29
+CUST-00200,Mary Wilson,mary.wilson200@example.com,RETAIL,25-34,16,ONLINE,El Paso,2010-02-16
+CUST-00201,Liam Khan,liam.khan201@example.com,RETAIL,55-64,20,BRANCH,Frisco,2006-06-09
+CUST-00202,Olivia Lopez,olivia.lopez202@example.com,PREMIER,65+,12,CALL_CENTER,Plano,2014-05-22
+CUST-00203,Grace Evans,grace.evans203@example.com,WEALTH,25-34,25,BRANCH,Dallas,2001-01-18
+CUST-00204,Wei Garcia,wei.garcia204@example.com,RETAIL,25-34,23,BRANCH,Arlington,2003-09-15
+CUST-00205,David Nguyen,david.nguyen205@example.com,RETAIL,55-64,20,MOBILE,Dallas,2006-03-13
+CUST-00206,Mei Murphy,mei.murphy206@example.com,WEALTH,55-64,16,ONLINE,Fort Worth,2010-02-12
+CUST-00207,Mei Singh,mei.singh207@example.com,RETAIL,25-34,24,MOBILE,Houston,2001-11-27
+CUST-00208,Mohammed Walsh,mohammed.walsh208@example.com,RETAIL,35-44,10,ONLINE,Arlington,2016-06-12
+CUST-00209,Olivia Brown,olivia.brown209@example.com,RETAIL,25-34,18,ONLINE,Plano,2008-04-28
+CUST-00210,Mary Okafor,mary.okafor210@example.com,WEALTH,25-34,3,MOBILE,Houston,2023-05-12
+CUST-00211,Mei Evans,mei.evans211@example.com,PREMIER,25-34,23,MOBILE,El Paso,2003-06-24
+CUST-00212,Mary Kim,mary.kim212@example.com,RETAIL,18-24,8,MOBILE,San Antonio,2018-10-11
+CUST-00213,James Walsh,james.walsh213@example.com,WEALTH,25-34,6,ONLINE,Arlington,2020-04-11
+CUST-00214,Liam Okafor,liam.okafor214@example.com,RETAIL,65+,25,CALL_CENTER,Austin,2001-09-26
+CUST-00215,Amara Nguyen,amara.nguyen215@example.com,PREMIER,25-34,6,ONLINE,Plano,2020-10-18
+CUST-00216,Mary Smith,mary.smith216@example.com,RETAIL,65+,20,BRANCH,San Antonio,2006-09-16
+CUST-00217,Wei Kim,wei.kim217@example.com,RETAIL,65+,7,MOBILE,Arlington,2019-09-10
+CUST-00218,James Murphy,james.murphy218@example.com,PREMIER,65+,19,BRANCH,Fort Worth,2006-11-29
+CUST-00219,Emily Kim,emily.kim219@example.com,RETAIL,25-34,13,CALL_CENTER,Fort Worth,2012-11-30
+CUST-00220,Mohammed Clarke,mohammed.clarke220@example.com,RETAIL,55-64,25,CALL_CENTER,Houston,2001-06-27
+CUST-00221,Mohammed Singh,mohammed.singh221@example.com, RETAIL ,65+,2,ONLINE,Houston,2023-11-29
+CUST-00222,Priya Okafor,priya.okafor222@example.com, RETAIL ,65+,8,ONLINE,Arlington,2018-07-17
+CUST-00223,Emily Walsh,emily.walsh223@example.com,PREMIER,65+,25,CALL_CENTER,Austin,2001-02-08
+CUST-00224,Carlos Ahmed,carlos.ahmed224@example.com,retail,55-64,12,MOBILE,Denton,2014-09-29
+CUST-00225,Mei Wilson,mei.wilson225@example.com,RETAIL,45-54,17,CALL_CENTER,Austin,2009-03-27
+CUST-00226,Carlos Ahmed,carlos.ahmed226@example.com,PREMIER,55-64,15,BRANCH,Arlington,2011-09-02
+CUST-00227,Olivia Smith,olivia.smith227@example.com,RETAIL,65+,1,CALL_CENTER,Dallas,2025-07-16
+CUST-00228,Mei Jones,mei.jones228@example.com, PREMIER ,25-34,3,BRANCH,Plano,2023-03-09
+CUST-00229,Aisha Clarke,aisha.clarke229@example.com,Retail,35-44,13,CALL_CENTER,Frisco,2013-04-29
+CUST-00230,Amara Walsh,amara.walsh230@example.com,RETAIL,45-54,5,BRANCH,Dallas,2021-07-14
+CUST-00231,Mei Clarke,mei.clarke231@example.com,PREMIER,65+,8,CALL_CENTER,Houston,2018-03-16
+CUST-00232,Mary Nguyen,mary.nguyen232@example.com,RETAIL,45-54,1,CALL_CENTER,Denton,2025-07-04
+CUST-00233,Sophie Jones,sophie.jones233@example.com, RETAIL ,35-44,8,MOBILE,Dallas,2018-02-03
+CUST-00234,Liam Murphy,liam.murphy234@example.com,RETAIL,18-24,5,MOBILE,Plano,2020-12-02
+CUST-00235,Emily Walsh,emily.walsh235@example.com,RETAIL,45-54,12,BRANCH,Frisco,2013-12-13
+CUST-00236,Wei Okafor,wei.okafor236@example.com,RETAIL,65+,25,MOBILE,Austin,2001-02-08
+CUST-00237,Raj Jones,raj.jones237@example.com,RETAIL,25-34,14,ONLINE,Plano,2012-01-27
+CUST-00238,John Ahmed,john.ahmed238@example.com,premier,45-54,3,CALL_CENTER,Austin,2023-02-04
+CUST-00239,John Taylor,john.taylor239@example.com,PREMIER,35-44,19,ONLINE,Arlington,2006-12-01
+CUST-00240,James Taylor,james.taylor240@example.com,PREMIER,65+,24,MOBILE,Arlington,2002-09-11
+CUST-00241,George Garcia,george.garcia241@example.com,RETAIL,35-44,25,ONLINE,Frisco,2001-06-19
+CUST-00242,Aisha Kim,aisha.kim242@example.com,PREMIER,35-44,15,MOBILE,Arlington,2011-09-19
+CUST-00243,Aisha Murphy,aisha.murphy243@example.com,RETAIL,55-64,19,BRANCH,Dallas,2007-07-19
+CUST-00244,Olivia Wilson,olivia.wilson244@example.com,RETAIL,65+,8,ONLINE,Austin,2018-04-26
+CUST-00245,Mohammed Lopez,mohammed.lopez245@example.com, WEALTH ,65+,21,BRANCH,San Antonio,2005-03-03
+CUST-00246,Amara Walsh,amara.walsh246@example.com,WEALTH,65+,2,CALL_CENTER,Denton,2024-02-10
+CUST-00247,James Nguyen,james.nguyen247@example.com,retail,55-64,21,BRANCH,Fort Worth,2005-07-14
+CUST-00248,Aisha Jones,aisha.jones248@example.com,retail,55-64,22,BRANCH,Arlington,2003-12-30
+CUST-00249,James Smith,james.smith249@example.com,RETAIL,65+,9,BRANCH,Dallas,2017-02-05
+CUST-00250,Amara Brown,amara.brown250@example.com,PREMIER,35-44,17,ONLINE,El Paso,2009-08-24
+CUST-00251,George Patel,george.patel251@example.com,RETAIL,18-24,13,CALL_CENTER,Austin,2013-03-17
+CUST-00252,John Clarke,john.clarke252@example.com,RETAIL,18-24,18,BRANCH,Dallas,2008-03-10
+CUST-00253,Emily Murphy,emily.murphy253@example.com,RETAIL,65+,4,BRANCH,Austin,2022-02-08
+CUST-00254,Mohammed Jones,mohammed.jones254@example.com,PREMIER,25-34,22,ONLINE,El Paso,2004-06-19
+CUST-00255,James Taylor,james.taylor255@example.com,RETAIL,55-64,25,MOBILE,Denton,2000-11-11
+CUST-00256,George Walsh,george.walsh256@example.com,RETAIL,35-44,25,CALL_CENTER,Denton,2001-08-31
+CUST-00257,Priya Nguyen,priya.nguyen257@example.com,RETAIL,45-54,3,ONLINE,El Paso,2023-05-15
+CUST-00258,James Evans,james.evans258@example.com,PREMIER,45-54,15,MOBILE,Frisco,2011-03-02
+CUST-00259,George Patel,george.patel259@example.com,PREMIER,45-54,10,MOBILE,Denton,2016-07-03
+CUST-00260,George Murphy,george.murphy260@example.com,RETAIL,35-44,3,CALL_CENTER,Arlington,2023-11-03
+CUST-00261,Wei Patel,wei.patel261@example.com,Retail,18-24,15,ONLINE,Plano,2011-01-27
+CUST-00262,Mei Patel,mei.patel262@example.com,RETAIL,18-24,11,MOBILE,,2015-04-24
+CUST-00263,Carlos Khan,carlos.khan263@example.com,RETAIL,18-24,6,MOBILE,Houston,2020-08-26
+CUST-00264,Emily Evans,emily.evans264@example.com,RETAIL,45-54,16,MOBILE,Austin,2010-09-30
+CUST-00265,Raj Brown,raj.brown265@example.com,RETAIL,35-44,1,BRANCH,El Paso,2025-04-16
+CUST-00266,Liam Nguyen,liam.nguyen266@example.com,PREMIER,65+,21,MOBILE,San Antonio,2005-01-09
+CUST-00267,Grace Murphy,grace.murphy267@example.com,RETAIL,25-34,13,ONLINE,Arlington,2013-05-28
+CUST-00268,George Evans,george.evans268@example.com,PREMIER,55-64,13,MOBILE,El Paso,2013-05-05
+CUST-00269,Mei Smith,mei.smith269@example.com,WEALTH,18-24,15,BRANCH,Houston,2010-11-11
+CUST-00270,Grace Wilson,grace.wilson270@example.com,RETAIL,18-24,8,BRANCH,Plano,2018-06-30
+CUST-00271,Grace Clarke,grace.clarke271@example.com,RETAIL,55-64,23,CALL_CENTER,San Antonio,2003-04-10
+CUST-00272,Priya Garcia,priya.garcia272@example.com,RETAIL,65+,12,BRANCH,Dallas,2014-08-14
+CUST-00273,Liam Nguyen,liam.nguyen273@example.com,RETAIL,65+,4,MOBILE,Frisco,2022-06-26
+CUST-00274,Raj Singh,raj.singh274@example.com, RETAIL ,18-24,25,BRANCH,Frisco,2000-11-28
+CUST-00275,Priya Okafor,priya.okafor275@example.com,RETAIL,35-44,3,BRANCH,Fort Worth,2023-09-07
+CUST-00276,David Kim,david.kim276@example.com,RETAIL,35-44,16,CALL_CENTER,Arlington,2010-09-20
+CUST-00277,Priya Smith,priya.smith277@example.com,PREMIER,65+,21,MOBILE,Fort Worth,2005-09-15
+CUST-00278,Carlos Khan,carlos.khan278@example.com,RETAIL,45-54,11,MOBILE,Arlington,2015-01-25
+CUST-00279,Amara Nguyen,amara.nguyen279@example.com,RETAIL,45-54,24,CALL_CENTER,Arlington,2001-12-31
+CUST-00280,David Taylor,david.taylor280@example.com,RETAIL,35-44,23,MOBILE,Frisco,2003-10-09
+CUST-00281,Raj Brown,raj.brown281@example.com,RETAIL,55-64,16,BRANCH,San Antonio,2010-02-11
+CUST-00282,Priya Singh,priya.singh282@example.com,RETAIL,55-64,15,CALL_CENTER,Houston,2010-12-27
+CUST-00283,Wei Murphy,wei.murphy283@example.com,RETAIL,45-54,10,MOBILE,Fort Worth,2016-09-08
+CUST-00284,George Nguyen,george.nguyen284@example.com,RETAIL,45-54,21,ONLINE,Fort Worth,2005-02-07
+CUST-00285,Wei Khan,wei.khan285@example.com,RETAIL,45-54,15,MOBILE,San Antonio,2010-12-26
+CUST-00286,David Clarke,david.clarke286@example.com,WEALTH,45-54,17,BRANCH,Arlington,2008-12-09
+CUST-00287,Amara Patel,amara.patel287@example.com,RETAIL,35-44,25,MOBILE,Houston,2001-07-21
+CUST-00288,Raj Lopez,raj.lopez288@example.com,RETAIL,35-44,4,CALL_CENTER,Frisco,2022-01-16
+CUST-00289,Raj Walsh,raj.walsh289@example.com,RETAIL,18-24,14,BRANCH,Austin,2012-09-16
+CUST-00290,Mohammed Singh,mohammed.singh290@example.com,PREMIER,25-34,3,MOBILE,Denton,2023-03-26
+CUST-00291,Aisha Nguyen,aisha.nguyen291@example.com,RETAIL,55-64,5,ONLINE,Dallas,2021-07-23
+CUST-00292,Mei Khan,mei.khan292@example.com,RETAIL,55-64,23,CALL_CENTER,Houston,2003-06-14
+CUST-00293,Wei Nguyen,wei.nguyen293@example.com,PREMIER,65+,9,ONLINE,Fort Worth,2016-12-06
+CUST-00294,Sophie Clarke,sophie.clarke294@example.com,RETAIL,18-24,19,CALL_CENTER,Plano,2006-12-21
+CUST-00295,George Kim,george.kim295@example.com,RETAIL,18-24,23,CALL_CENTER,Arlington,2003-05-06
+CUST-00296,Raj Singh,raj.singh296@example.com,PREMIER,45-54,18,ONLINE,Plano,2008-04-19
+CUST-00297,Liam Okafor,liam.okafor297@example.com,RETAIL,65+,19,CALL_CENTER,Arlington,2007-09-04
+CUST-00298,Mary Brown,mary.brown298@example.com,RETAIL,18-24,15,BRANCH,Fort Worth,2011-10-31
+CUST-00299,David Wilson,david.wilson299@example.com,Premier,35-44,10,ONLINE,Houston,2016-08-17
+CUST-00300,John Singh,john.singh300@example.com,RETAIL,25-34,21,BRANCH,Houston,2005-08-17
+CUST-00301,John Brown,john.brown301@example.com,RETAIL,45-54,16,CALL_CENTER,Austin,2010-09-30
+CUST-00302,James Murphy,james.murphy302@example.com,PREMIER,18-24,14,CALL_CENTER,Denton,2011-11-18
+CUST-00303,Priya Murphy,priya.murphy303@example.com,RETAIL,65+,10,MOBILE,Fort Worth,2016-08-28
+CUST-00304,John Kim,john.kim304@example.com,RETAIL,65+,20,MOBILE,San Antonio,2005-12-12
+CUST-00305,Emily Ahmed,emily.ahmed305@example.com,PREMIER,45-54,3,ONLINE,Denton,2023-09-15
+CUST-00306,Emily Murphy,emily.murphy306@example.com,PREMIER,55-64,8,ONLINE,Austin,2018-06-18
+CUST-00307,James Okafor,james.okafor307@example.com,RETAIL,18-24,20,MOBILE,Plano,2006-02-22
+CUST-00308,Grace Clarke,grace.clarke308@example.com,RETAIL,18-24,16,ONLINE,Frisco,2009-12-17
+CUST-00309,Liam Wilson,liam.wilson309@example.com,RETAIL,18-24,19,CALL_CENTER,Fort Worth,2007-04-08
+CUST-00310,John Smith,john.smith310@example.com,RETAIL,65+,2,BRANCH,Plano,2024-10-05
+CUST-00311,Emily Clarke,emily.clarke311@example.com,Retail,18-24,18,MOBILE,Houston,2008-02-07
+CUST-00312,Wei Walsh,wei.walsh312@example.com,RETAIL,45-54,19,MOBILE,Denton,2006-12-20
+CUST-00313,Mary Garcia,mary.garcia313@example.com,retail,65+,14,MOBILE,El Paso,2012-09-09
+CUST-00314,Priya Smith,priya.smith314@example.com,RETAIL,65+,23,ONLINE,San Antonio,2003-11-05
+CUST-00315,Amara Singh,amara.singh315@example.com,RETAIL,18-24,25,ONLINE,Denton,2001-06-26
+CUST-00316,Emily Evans,emily.evans316@example.com,RETAIL,55-64,9,ONLINE,Denton,2016-11-07
+CUST-00317,Mary Lopez,mary.lopez317@example.com,PREMIER,65+,6,CALL_CENTER,Denton,2020-05-01
+CUST-00318,Sophie Kim,sophie.kim318@example.com,RETAIL,25-34,1,MOBILE,San Antonio,2025-07-02
+CUST-00319,Mary Walsh,mary.walsh319@example.com,PREMIER,65+,23,ONLINE,San Antonio,2002-12-10
+CUST-00320,Mohammed Patel,mohammed.patel320@example.com, RETAIL ,55-64,4,CALL_CENTER,Dallas,2022-02-21
+CUST-00321,George Patel,george.patel321@example.com,PREMIER,35-44,10,MOBILE,Frisco,2016-05-31
+CUST-00322,Olivia Okafor,olivia.okafor322@example.com,RETAIL,25-34,8,MOBILE,Arlington,2018-03-14
+CUST-00323,Wei Smith,wei.smith323@example.com,PREMIER,18-24,1,BRANCH,Dallas,2025-07-08
+CUST-00324,Olivia Brown,olivia.brown324@example.com,RETAIL,25-34,8,ONLINE,Dallas,2018-04-06
+CUST-00325,John Jones,john.jones325@example.com,PREMIER,65+,17,CALL_CENTER,San Antonio,2009-04-11
+CUST-00326,Priya Kim,priya.kim326@example.com,RETAIL,25-34,13,MOBILE,Dallas,2013-09-30
+CUST-00327,Olivia Evans,olivia.evans327@example.com,PREMIER,35-44,13,MOBILE,San Antonio,2012-11-14
+CUST-00328,John Taylor,john.taylor328@example.com, RETAIL ,45-54,25,ONLINE,Denton,2001-01-15
+CUST-00329,Emily Brown,emily.brown329@example.com,RETAIL,18-24,25,CALL_CENTER,Arlington,2001-07-27
+CUST-00330,Amara Okafor,amara.okafor330@example.com, PREMIER ,65+,23,MOBILE,San Antonio,2003-01-06
+CUST-00331,Aisha Clarke,aisha.clarke331@example.com,retail,45-54,22,BRANCH,Fort Worth,2004-06-09
+CUST-00332,Mei Walsh,mei.walsh332@example.com,Retail,18-24,15,MOBILE,Fort Worth,2011-09-17
+CUST-00333,Wei Taylor,wei.taylor333@example.com,PREMIER,35-44,12,CALL_CENTER,Denton,2013-11-21
+CUST-00334,James Patel,james.patel334@example.com,RETAIL,35-44,21,CALL_CENTER,Denton,2005-03-27
+CUST-00335,Mary Ahmed,mary.ahmed335@example.com,RETAIL,45-54,19,BRANCH,Plano,2007-04-02
+CUST-00336,Amara Singh,amara.singh336@example.com,retail,55-64,6,MOBILE,Fort Worth,2020-06-18
+CUST-00337,Olivia Lopez,olivia.lopez337@example.com,RETAIL,45-54,18,MOBILE,Houston,2008-03-08
+CUST-00338,Carlos Garcia,carlos.garcia338@example.com,RETAIL,45-54,18,ONLINE,San Antonio,2008-10-30
+CUST-00339,Carlos Murphy,carlos.murphy339@example.com,retail,35-44,6,CALL_CENTER,Austin,2020-10-23
+CUST-00340,Grace Kim,grace.kim340@example.com,RETAIL,25-34,19,ONLINE,Denton,2007-07-13
+CUST-00341,Mei Jones,mei.jones341@example.com,PREMIER,25-34,8,MOBILE,Plano,2018-01-16
+CUST-00342,Sophie Murphy,sophie.murphy342@example.com,PREMIER,35-44,23,MOBILE,Dallas,2003-05-11
+CUST-00343,David Lopez,david.lopez343@example.com,RETAIL,25-34,6,CALL_CENTER,Dallas,2020-02-28
+CUST-00344,Carlos Lopez,carlos.lopez344@example.com,RETAIL,35-44,20,CALL_CENTER,San Antonio,2006-07-29
+CUST-00345,James Wilson,james.wilson345@example.com,RETAIL,35-44,5,BRANCH,San Antonio,2021-09-10
+CUST-00346,Priya Murphy,priya.murphy346@example.com,RETAIL,45-54,5,ONLINE,Plano,2021-08-17
+CUST-00347,Amara Walsh,amara.walsh347@example.com,RETAIL,45-54,20,ONLINE,El Paso,2006-05-11
+CUST-00348,Olivia Wilson,olivia.wilson348@example.com,RETAIL,55-64,1,CALL_CENTER,Plano,2024-11-10
+CUST-00349,Amara Murphy,amara.murphy349@example.com,PREMIER,25-34,20,ONLINE,Denton,2006-07-19
+CUST-00350,John Garcia,john.garcia350@example.com,RETAIL,65+,11,ONLINE,Denton,2015-08-14
+CUST-00351,Raj Smith,raj.smith351@example.com,RETAIL,65+,8,CALL_CENTER,Houston,2017-11-17
+CUST-00352,Mary Clarke,mary.clarke352@example.com,RETAIL,35-44,14,BRANCH,Arlington,2012-08-14
+CUST-00353,Priya Lopez,priya.lopez353@example.com, PREMIER ,18-24,19,CALL_CENTER,Austin,2006-12-11
+CUST-00354,Olivia Smith,olivia.smith354@example.com, RETAIL ,18-24,4,CALL_CENTER,Plano,2022-09-29
+CUST-00355,Liam Lopez,liam.lopez355@example.com, RETAIL ,18-24,14,ONLINE,Plano,2011-12-09
+CUST-00356,David Taylor,david.taylor356@example.com,RETAIL,18-24,18,CALL_CENTER,Houston,2008-02-06
+CUST-00357,George Walsh,george.walsh357@example.com,Premier,65+,5,BRANCH,Plano,2021-10-09
+CUST-00358,David Brown,david.brown358@example.com,RETAIL,18-24,6,ONLINE,Denton,2019-12-15
+CUST-00359,George Lopez,george.lopez359@example.com,RETAIL,35-44,22,BRANCH,Frisco,2004-06-27
+CUST-00360,Aisha Khan,aisha.khan360@example.com,RETAIL,55-64,9,CALL_CENTER,Austin,2017-03-26
+CUST-00361,Wei Brown,wei.brown361@example.com,RETAIL,18-24,12,BRANCH,El Paso,2014-02-03
+CUST-00362,Carlos Nguyen,carlos.nguyen362@example.com,WEALTH,18-24,22,BRANCH,Austin,2004-03-11
+CUST-00363,Mary Kim,mary.kim363@example.com, RETAIL ,45-54,17,MOBILE,El Paso,2009-01-20
+CUST-00364,Amara Taylor,amara.taylor364@example.com,PREMIER,65+,5,MOBILE,Plano,2021-10-15
+CUST-00365,Mohammed Murphy,mohammed.murphy365@example.com,PREMIER,35-44,3,BRANCH,Plano,2023-09-22
+CUST-00366,James Kim,james.kim366@example.com,PREMIER,18-24,4,CALL_CENTER,El Paso,2022-04-07
+CUST-00367,Priya Okafor,priya.okafor367@example.com,PREMIER,45-54,12,CALL_CENTER,Arlington,2014-04-11
+CUST-00368,Amara Evans,amara.evans368@example.com,retail,35-44,20,MOBILE,Plano,2006-01-02
+CUST-00369,Mary Lopez,mary.lopez369@example.com,PREMIER,45-54,12,CALL_CENTER,Houston,2014-10-28
+CUST-00370,Sophie Wilson,sophie.wilson370@example.com,RETAIL,45-54,24,CALL_CENTER,San Antonio,2002-03-29
+CUST-00371,David Ahmed,david.ahmed371@example.com,RETAIL,55-64,14,MOBILE,San Antonio,2012-03-04
+CUST-00372,John Okafor,john.okafor372@example.com,RETAIL,18-24,13,MOBILE,Frisco,2013-08-30
+CUST-00373,David Taylor,david.taylor373@example.com,PREMIER,35-44,8,ONLINE,San Antonio,2018-10-21
+CUST-00374,Raj Kim,raj.kim374@example.com,RETAIL,45-54,4,MOBILE,San Antonio,2021-11-22
+CUST-00375,Grace Walsh,grace.walsh375@example.com,RETAIL,45-54,6,CALL_CENTER,Denton,2020-06-26
+CUST-00376,Amara Taylor,amara.taylor376@example.com,PREMIER,55-64,21,CALL_CENTER,Houston,2005-07-17
+CUST-00377,James Lopez,james.lopez377@example.com,PREMIER,55-64,21,ONLINE,Dallas,2005-08-13
+CUST-00378,Mohammed Nguyen,mohammed.nguyen378@example.com,PREMIER,55-64,12,BRANCH,Arlington,2014-03-17
+CUST-00379,Priya Smith,priya.smith379@example.com,RETAIL,35-44,22,CALL_CENTER,El Paso,2004-05-02
+CUST-00380,Grace Patel,grace.patel380@example.com,RETAIL,65+,9,ONLINE,Houston,2016-12-14
+CUST-00381,David Wilson,david.wilson381@example.com,RETAIL,35-44,8,MOBILE,El Paso,2018-10-08
+CUST-00382,James Lopez,james.lopez382@example.com,WEALTH,55-64,9,MOBILE,Dallas,2017-04-06
+CUST-00383,Liam Garcia,liam.garcia383@example.com,RETAIL,25-34,21,MOBILE,San Antonio,2005-03-11
+CUST-00384,Olivia Brown,olivia.brown384@example.com,RETAIL,25-34,24,ONLINE,Frisco,2002-07-01
+CUST-00385,John Garcia,john.garcia385@example.com,RETAIL,55-64,24,ONLINE,San Antonio,2002-06-06
+CUST-00386,Raj Brown,raj.brown386@example.com,retail,25-34,21,CALL_CENTER,El Paso,2005-01-15
+CUST-00387,George Kim,george.kim387@example.com,RETAIL,55-64,2,BRANCH,Austin,2024-08-19
+CUST-00388,Wei Murphy,wei.murphy388@example.com,PREMIER,18-24,6,CALL_CENTER,Fort Worth,2020-09-25
+CUST-00389,Raj Evans,raj.evans389@example.com,RETAIL,18-24,25,MOBILE,Fort Worth,2001-08-16
+CUST-00390,Emily Nguyen,emily.nguyen390@example.com,RETAIL,65+,16,ONLINE,,2010-04-26
+CUST-00391,James Murphy,james.murphy391@example.com,premier,65+,17,MOBILE,,2009-08-03
+CUST-00392,Sophie Singh,sophie.singh392@example.com, RETAIL ,18-24,4,ONLINE,Houston,2022-04-23
+CUST-00393,Olivia Ahmed,olivia.ahmed393@example.com,RETAIL,45-54,20,ONLINE,Fort Worth,2006-02-14
+CUST-00394,David Khan,david.khan394@example.com,PREMIER,18-24,13,MOBILE,Fort Worth,2013-10-29
+CUST-00395,Priya Singh,priya.singh395@example.com,RETAIL,55-64,2,CALL_CENTER,Houston,2024-04-26
+CUST-00396,Mary Brown,mary.brown396@example.com,RETAIL,18-24,1,ONLINE,Plano,2025-10-11
+CUST-00397,Grace Wilson,grace.wilson397@example.com,RETAIL,18-24,22,ONLINE,,2003-12-23
+CUST-00398,Wei Nguyen,wei.nguyen398@example.com,PREMIER,18-24,4,BRANCH,Denton,2022-02-17
+CUST-00399,David Taylor,david.taylor399@example.com,PREMIER,18-24,17,BRANCH,Plano,2009-07-28
+CUST-00400,David Lopez,david.lopez400@example.com,RETAIL,65+,1,BRANCH,Denton,2025-10-29
+CUST-00401,Wei Patel,wei.patel401@example.com,PREMIER,35-44,3,ONLINE,Austin,2023-09-15
+CUST-00402,Raj Jones,raj.jones402@example.com,RETAIL,35-44,6,BRANCH,San Antonio,2020-10-16
+CUST-00403,Priya Brown,priya.brown403@example.com,PREMIER,45-54,2,ONLINE,Fort Worth,2024-10-31
+CUST-00404,John Singh,john.singh404@example.com,PREMIER,45-54,6,BRANCH,Arlington,2020-09-08
+CUST-00405,Emily Khan,emily.khan405@example.com,Retail,55-64,23,BRANCH,Fort Worth,2003-10-11
+CUST-00406,Raj Khan,raj.khan406@example.com,RETAIL,45-54,25,CALL_CENTER,Fort Worth,2001-05-11
+CUST-00407,Emily Ahmed,emily.ahmed407@example.com,RETAIL,55-64,9,MOBILE,Frisco,2016-12-06
+CUST-00408,Liam Kim,liam.kim408@example.com,RETAIL,65+,23,BRANCH,Austin,2002-12-29
+CUST-00409,Wei Walsh,wei.walsh409@example.com,PREMIER,55-64,20,BRANCH,,2006-10-13
+CUST-00410,Grace Khan,grace.khan410@example.com,retail,25-34,16,BRANCH,Houston,2010-05-28
+CUST-00411,George Garcia,george.garcia411@example.com,RETAIL,18-24,15,BRANCH,Arlington,2011-01-19
+CUST-00412,James Brown,james.brown412@example.com,RETAIL,55-64,2,ONLINE,Denton,2024-01-24
+CUST-00413,Carlos Walsh,carlos.walsh413@example.com,RETAIL,25-34,22,BRANCH,San Antonio,2004-03-21
+CUST-00414,Liam Walsh,liam.walsh414@example.com,PREMIER,18-24,20,CALL_CENTER,San Antonio,2006-03-12
+CUST-00415,Sophie Smith,sophie.smith415@example.com,RETAIL,18-24,21,MOBILE,San Antonio,2005-06-13
+CUST-00416,Grace Wilson,grace.wilson416@example.com,PREMIER,18-24,24,BRANCH,El Paso,2002-04-15
+CUST-00417,David Ahmed,david.ahmed417@example.com,premier,65+,7,CALL_CENTER,Plano,2019-05-17
+CUST-00418,Raj Ahmed,raj.ahmed418@example.com,RETAIL,18-24,17,BRANCH,Dallas,2009-09-01
+CUST-00419,Grace Kim,grace.kim419@example.com,Premier,65+,6,ONLINE,Fort Worth,2019-11-17
+CUST-00420,Carlos Clarke,carlos.clarke420@example.com,RETAIL,35-44,20,ONLINE,Houston,2005-11-20
+CUST-00421,Raj Wilson,raj.wilson421@example.com,RETAIL,65+,20,ONLINE,Frisco,2005-11-16
+CUST-00422,Mei Taylor,mei.taylor422@example.com,RETAIL,65+,20,MOBILE,Fort Worth,2006-06-14
+CUST-00423,Carlos Walsh,carlos.walsh423@example.com,RETAIL,55-64,11,BRANCH,San Antonio,2014-11-09
+CUST-00424,Mei Okafor,mei.okafor424@example.com,PREMIER,18-24,14,CALL_CENTER,Dallas,2012-11-01
+CUST-00425,David Evans,david.evans425@example.com,PREMIER,65+,6,ONLINE,Fort Worth,2020-06-12
+CUST-00426,David Walsh,david.walsh426@example.com,RETAIL,65+,15,BRANCH,Frisco,2011-09-17
+CUST-00427,Sophie Kim,sophie.kim427@example.com,PREMIER,45-54,23,BRANCH,Dallas,2003-06-16
+CUST-00428,Liam Walsh,liam.walsh428@example.com,RETAIL,65+,24,ONLINE,Arlington,2002-07-05
+CUST-00429,Mei Taylor,mei.taylor429@example.com,PREMIER,25-34,7,CALL_CENTER,Denton,2019-06-09
+CUST-00430,George Jones,george.jones430@example.com,RETAIL,18-24,18,ONLINE,El Paso,2008-06-26
+CUST-00431,Raj Wilson,raj.wilson431@example.com,RETAIL,35-44,11,BRANCH,El Paso,2015-01-06
+CUST-00432,Mei Singh,mei.singh432@example.com,RETAIL,55-64,23,MOBILE,Fort Worth,2003-06-01
+CUST-00433,Emily Walsh,emily.walsh433@example.com,RETAIL,35-44,3,ONLINE,Austin,2023-05-11
+CUST-00434,Olivia Taylor,olivia.taylor434@example.com,WEALTH,65+,20,CALL_CENTER,Frisco,2006-02-11
+CUST-00435,Priya Singh,priya.singh435@example.com,RETAIL,65+,21,ONLINE,Austin,2004-12-30
+CUST-00436,George Brown,george.brown436@example.com,RETAIL,35-44,18,BRANCH,,2008-06-17
+CUST-00437,Grace Jones,grace.jones437@example.com,RETAIL,25-34,21,CALL_CENTER,Denton,2005-08-03
+CUST-00438,John Taylor,john.taylor438@example.com,RETAIL,25-34,25,BRANCH,Plano,2001-07-24
+CUST-00439,John Wilson,john.wilson439@example.com,retail,35-44,23,CALL_CENTER,Denton,2003-05-25
+CUST-00440,Sophie Evans,sophie.evans440@example.com,retail,65+,15,CALL_CENTER,San Antonio,2010-12-21
+CUST-00441,Mei Smith,mei.smith441@example.com,retail,18-24,20,ONLINE,El Paso,2006-10-08
+CUST-00442,Carlos Brown,carlos.brown442@example.com,RETAIL,45-54,22,BRANCH,Houston,2004-06-08
+CUST-00443,George Smith,george.smith443@example.com,RETAIL,55-64,18,ONLINE,Plano,2008-07-19
+CUST-00444,Wei Okafor,wei.okafor444@example.com,RETAIL,55-64,24,MOBILE,Dallas,2001-12-14
+CUST-00445,Priya Jones,priya.jones445@example.com,RETAIL,65+,20,ONLINE,Denton,2006-04-22
+CUST-00446,David Nguyen,david.nguyen446@example.com,PREMIER,35-44,17,MOBILE,Austin,2009-08-28
+CUST-00447,Priya Khan,priya.khan447@example.com,RETAIL,55-64,19,CALL_CENTER,Frisco,2007-10-13
+CUST-00448,Olivia Patel,olivia.patel448@example.com,RETAIL,65+,7,MOBILE,San Antonio,2019-01-13
+CUST-00449,Priya Okafor,priya.okafor449@example.com,RETAIL,35-44,7,MOBILE,San Antonio,2019-05-28
+CUST-00450,Aisha Murphy,aisha.murphy450@example.com,WEALTH,65+,6,BRANCH,Austin,2020-11-03
+CUST-00451,Mohammed Singh,mohammed.singh451@example.com,RETAIL,35-44,24,BRANCH,Arlington,2002-05-25
+CUST-00452,Mei Brown,mei.brown452@example.com,RETAIL,25-34,20,ONLINE,Fort Worth,2006-09-29
+CUST-00453,John Patel,john.patel453@example.com,PREMIER,55-64,17,MOBILE,El Paso,2008-12-20
+CUST-00454,Mary Walsh,mary.walsh454@example.com,RETAIL,25-34,18,ONLINE,Fort Worth,2008-03-12
+CUST-00455,Wei Ahmed,wei.ahmed455@example.com,RETAIL,55-64,3,MOBILE,Dallas,2023-04-16
+CUST-00456,Carlos Wilson,carlos.wilson456@example.com,RETAIL,45-54,6,ONLINE,Fort Worth,2020-01-21
+CUST-00457,Mary Garcia,mary.garcia457@example.com,premier,25-34,8,ONLINE,Austin,2018-10-05
+CUST-00458,George Lopez,george.lopez458@example.com,Premier,55-64,2,ONLINE,San Antonio,2024-10-15
+CUST-00459,Mohammed Walsh,mohammed.walsh459@example.com,RETAIL,18-24,13,ONLINE,El Paso,2012-12-08
+CUST-00460,George Garcia,george.garcia460@example.com,RETAIL,18-24,12,MOBILE,Arlington,2014-05-15
+CUST-00461,Raj Khan,raj.khan461@example.com,RETAIL,35-44,17,CALL_CENTER,Fort Worth,2008-12-14
+CUST-00462,Sophie Nguyen,sophie.nguyen462@example.com,PREMIER,55-64,24,MOBILE,Arlington,2002-09-13
+CUST-00463,Emily Smith,emily.smith463@example.com,RETAIL,18-24,5,MOBILE,Fort Worth,2021-01-16
+CUST-00464,Mary Khan,mary.khan464@example.com,RETAIL,65+,6,CALL_CENTER,El Paso,2020-02-15
+CUST-00465,Olivia Patel,olivia.patel465@example.com,RETAIL,45-54,20,MOBILE,Fort Worth,2006-03-13
+CUST-00466,Amara Kim,amara.kim466@example.com,RETAIL,18-24,24,MOBILE,Arlington,2001-11-24
+CUST-00467,George Clarke,george.clarke467@example.com,RETAIL,25-34,1,CALL_CENTER,Frisco,2025-07-24
+CUST-00468,Amara Lopez,amara.lopez468@example.com,PREMIER,18-24,20,CALL_CENTER,Frisco,2006-10-21
+CUST-00469,Grace Wilson,grace.wilson469@example.com,PREMIER,35-44,18,CALL_CENTER,Plano,2008-11-08
+CUST-00470,Carlos Nguyen,carlos.nguyen470@example.com,Retail,25-34,16,ONLINE,El Paso,2010-04-27
+CUST-00471,Grace Garcia,grace.garcia471@example.com,PREMIER,25-34,3,CALL_CENTER,Frisco,2023-06-13
+CUST-00472,James Kim,james.kim472@example.com,RETAIL,18-24,1,MOBILE,San Antonio,2025-04-26
+CUST-00473,Emily Evans,emily.evans473@example.com,RETAIL,65+,18,BRANCH,El Paso,2008-04-06
+CUST-00474,David Nguyen,david.nguyen474@example.com,RETAIL,35-44,18,ONLINE,Frisco,2008-03-06
+CUST-00475,Aisha Clarke,aisha.clarke475@example.com,RETAIL,25-34,22,CALL_CENTER,Arlington,2004-09-10
+CUST-00476,David Kim,david.kim476@example.com, RETAIL ,65+,11,CALL_CENTER,Dallas,2015-01-30
+CUST-00477,John Wilson,john.wilson477@example.com,RETAIL,18-24,20,CALL_CENTER,Houston,2006-04-01
+CUST-00478,George Clarke,george.clarke478@example.com,retail,25-34,17,BRANCH,El Paso,2009-06-15
+CUST-00479,Raj Smith,raj.smith479@example.com,RETAIL,55-64,22,MOBILE,Dallas,2004-02-18
+CUST-00480,Amara Jones,amara.jones480@example.com,RETAIL,45-54,21,ONLINE,Denton,2005-11-09
+CUST-00481,George Clarke,george.clarke481@example.com,RETAIL,55-64,17,ONLINE,Denton,2009-11-01
+CUST-00482,Mei Singh,mei.singh482@example.com,RETAIL,45-54,9,CALL_CENTER,Austin,2017-07-14
+CUST-00483,Mohammed Khan,mohammed.khan483@example.com,RETAIL,18-24,4,ONLINE,Houston,2022-01-23
+CUST-00484,Mei Evans,mei.evans484@example.com,RETAIL,45-54,13,BRANCH,Austin,2013-01-23
+CUST-00485,James Lopez,james.lopez485@example.com,RETAIL,25-34,3,ONLINE,Austin,2023-04-24
+CUST-00486,Emily Singh,emily.singh486@example.com,RETAIL,45-54,1,ONLINE,Austin,2024-11-11
+CUST-00487,John Walsh,john.walsh487@example.com,PREMIER,65+,16,MOBILE,El Paso,2010-06-01
+CUST-00488,Grace Taylor,grace.taylor488@example.com,RETAIL,55-64,8,ONLINE,Austin,2018-06-24
+CUST-00489,Wei Brown,wei.brown489@example.com,RETAIL,55-64,3,CALL_CENTER,Arlington,2022-11-24
+CUST-00490,Grace Singh,grace.singh490@example.com,RETAIL,55-64,16,ONLINE,Arlington,2010-01-18
+CUST-00491,George Garcia,george.garcia491@example.com,PREMIER,55-64,5,CALL_CENTER,Plano,2021-10-09
+CUST-00492,Carlos Singh,carlos.singh492@example.com,RETAIL,45-54,22,ONLINE,Denton,2004-08-12
+CUST-00493,James Smith,james.smith493@example.com,RETAIL,35-44,13,MOBILE,San Antonio,2013-01-14
+CUST-00494,Mei Evans,mei.evans494@example.com,RETAIL,25-34,16,BRANCH,Fort Worth,2009-12-30
+CUST-00495,Aisha Singh,aisha.singh495@example.com,PREMIER,65+,9,MOBILE,Fort Worth,2017-03-21
+CUST-00496,Priya Evans,priya.evans496@example.com, PREMIER ,65+,18,MOBILE,Austin,2008-04-01
+CUST-00497,Grace Smith,grace.smith497@example.com,RETAIL,35-44,16,BRANCH,Frisco,2010-09-01
+CUST-00498,Olivia Evans,olivia.evans498@example.com,retail,35-44,19,BRANCH,Fort Worth,2007-10-16
+CUST-00499,Priya Ahmed,priya.ahmed499@example.com,RETAIL,35-44,9,ONLINE,Frisco,2017-05-06
+CUST-00500,James Nguyen,james.nguyen500@example.com,RETAIL,55-64,22,MOBILE,El Paso,2004-01-04
+CUST-00501,Olivia Singh,olivia.singh501@example.com,RETAIL,45-54,17,ONLINE,Arlington,2009-03-04
+CUST-00502,Raj Wilson,raj.wilson502@example.com,PREMIER,18-24,21,CALL_CENTER,El Paso,2005-05-21
+CUST-00503,Amara Murphy,amara.murphy503@example.com,RETAIL,45-54,11,ONLINE,Houston,2014-12-08
+CUST-00504,Raj Singh,raj.singh504@example.com,RETAIL,25-34,17,MOBILE,Fort Worth,2009-03-23
+CUST-00505,Mohammed Patel,mohammed.patel505@example.com,RETAIL,18-24,13,BRANCH,Arlington,2013-09-16
+CUST-00506,Carlos Patel,carlos.patel506@example.com,RETAIL,25-34,20,ONLINE,Plano,2006-08-22
+CUST-00507,Raj Wilson,raj.wilson507@example.com,RETAIL,35-44,6,BRANCH,San Antonio,2020-10-22
+CUST-00508,Raj Walsh,raj.walsh508@example.com, PREMIER ,55-64,18,BRANCH,Frisco,2008-03-26
+CUST-00509,Emily Kim,emily.kim509@example.com,RETAIL,18-24,18,BRANCH,Arlington,2008-06-03
+CUST-00510,Olivia Singh,olivia.singh510@example.com,RETAIL,25-34,5,ONLINE,,2021-06-03
+CUST-00511,Olivia Lopez,olivia.lopez511@example.com,RETAIL,45-54,23,ONLINE,Arlington,2003-03-04
+CUST-00512,Sophie Smith,sophie.smith512@example.com,RETAIL,25-34,7,BRANCH,Plano,2019-04-10
+CUST-00513,George Garcia,george.garcia513@example.com,RETAIL,65+,14,ONLINE,El Paso,2011-12-23
+CUST-00514,Olivia Walsh,olivia.walsh514@example.com,Premier,18-24,14,BRANCH,Fort Worth,2012-08-03
+CUST-00515,Raj Evans,raj.evans515@example.com,retail,55-64,16,CALL_CENTER,Fort Worth,2010-08-04
+CUST-00516,Amara Brown,amara.brown516@example.com,Retail,18-24,5,BRANCH,Austin,2021-03-26
+CUST-00517,David Murphy,david.murphy517@example.com,RETAIL,25-34,16,CALL_CENTER,Dallas,2010-05-02
+CUST-00518,Mohammed Clarke,mohammed.clarke518@example.com,RETAIL,18-24,16,CALL_CENTER,Houston,2010-08-08
+CUST-00519,Sophie Clarke,sophie.clarke519@example.com,PREMIER,65+,15,CALL_CENTER,Dallas,2011-07-05
+CUST-00520,Carlos Taylor,carlos.taylor520@example.com,RETAIL,18-24,22,CALL_CENTER,Fort Worth,2004-06-03
+CUST-00521,Mohammed Lopez,mohammed.lopez521@example.com,RETAIL,25-34,7,BRANCH,Austin,2019-05-06
+CUST-00522,Liam Smith,liam.smith522@example.com,retail,18-24,9,BRANCH,Austin,2017-01-11
+CUST-00523,Wei Singh,wei.singh523@example.com,PREMIER,65+,8,CALL_CENTER,El Paso,2018-08-18
+CUST-00524,Mary Singh,mary.singh524@example.com,RETAIL,35-44,23,ONLINE,Fort Worth,2003-02-09
+CUST-00525,Raj Taylor,raj.taylor525@example.com,RETAIL,45-54,13,BRANCH,Houston,2013-05-08
+CUST-00526,Mei Okafor,mei.okafor526@example.com,RETAIL,65+,16,BRANCH,Frisco,2010-08-03
+CUST-00527,Mohammed Walsh,mohammed.walsh527@example.com,RETAIL,45-54,17,CALL_CENTER,Houston,2009-08-21
+CUST-00528,Carlos Clarke,carlos.clarke528@example.com,RETAIL,65+,1,CALL_CENTER,El Paso,2024-12-22
+CUST-00529,Mei Clarke,mei.clarke529@example.com,RETAIL,35-44,22,BRANCH,Fort Worth,2004-02-29
+CUST-00530,Liam Brown,liam.brown530@example.com, RETAIL ,18-24,22,MOBILE,Fort Worth,2004-10-06
+CUST-00531,Priya Lopez,priya.lopez531@example.com,RETAIL,55-64,2,ONLINE,Plano,2024-01-17
+CUST-00532,Mary Singh,mary.singh532@example.com,RETAIL,65+,23,BRANCH,,2003-10-05
+CUST-00533,John Ahmed,john.ahmed533@example.com,PREMIER,65+,2,CALL_CENTER,Plano,2024-05-04
+CUST-00534,Mohammed Kim,mohammed.kim534@example.com,RETAIL,18-24,3,CALL_CENTER,Austin,2023-06-03
+CUST-00535,Sophie Walsh,sophie.walsh535@example.com,RETAIL,25-34,7,BRANCH,El Paso,2019-02-10
+CUST-00536,Priya Singh,priya.singh536@example.com, RETAIL ,25-34,23,BRANCH,Denton,2002-12-05
+CUST-00537,Carlos Murphy,carlos.murphy537@example.com,RETAIL,55-64,18,ONLINE,San Antonio,2008-01-06
+CUST-00538,Aisha Nguyen,aisha.nguyen538@example.com,PREMIER,45-54,14,ONLINE,El Paso,2012-05-26
+CUST-00539,Aisha Ahmed,aisha.ahmed539@example.com,RETAIL,55-64,13,MOBILE,Houston,2013-11-07
+CUST-00540,Olivia Smith,olivia.smith540@example.com,RETAIL,65+,8,ONLINE,Dallas,2018-07-20
+CUST-00541,Mei Kim,mei.kim541@example.com,RETAIL,25-34,19,ONLINE,Arlington,2007-08-22
+CUST-00542,Aisha Garcia,aisha.garcia542@example.com,RETAIL,65+,10,CALL_CENTER,El Paso,2016-09-20
+CUST-00543,Liam Lopez,liam.lopez543@example.com,RETAIL,35-44,23,CALL_CENTER,Denton,2002-11-16
+CUST-00544,George Patel,george.patel544@example.com,PREMIER,18-24,25,MOBILE,Plano,2001-05-23
+CUST-00545,James Clarke,james.clarke545@example.com, RETAIL ,55-64,17,MOBILE,El Paso,2009-10-18
+CUST-00546,Wei Jones,wei.jones546@example.com,RETAIL,25-34,13,BRANCH,El Paso,2013-03-24
+CUST-00547,Olivia Clarke,olivia.clarke547@example.com,RETAIL,35-44,11,CALL_CENTER,Dallas,2015-09-26
+CUST-00548,George Kim,george.kim548@example.com,RETAIL,45-54,23,BRANCH,Arlington,2003-09-05
+CUST-00549,David Walsh,david.walsh549@example.com,RETAIL,45-54,24,ONLINE,Denton,2002-02-15
+CUST-00550,John Brown,john.brown550@example.com,RETAIL,65+,14,CALL_CENTER,San Antonio,2012-05-04
+CUST-00551,Olivia Khan,olivia.khan551@example.com,wealth,25-34,20,MOBILE,Arlington,2006-03-28
+CUST-00552,Aisha Wilson,aisha.wilson552@example.com,PREMIER,25-34,3,ONLINE,Austin,2023-09-09
+CUST-00553,James Murphy,james.murphy553@example.com,RETAIL,65+,4,MOBILE,Dallas,2022-06-02
+CUST-00554,David Walsh,david.walsh554@example.com,RETAIL,65+,9,CALL_CENTER,Fort Worth,2017-01-30
+CUST-00555,George Kim,george.kim555@example.com,RETAIL,45-54,6,CALL_CENTER,El Paso,2020-10-06
+CUST-00556,John Clarke,john.clarke556@example.com,retail,65+,22,BRANCH,Denton,2003-12-08
+CUST-00557,Sophie Clarke,sophie.clarke557@example.com,RETAIL,55-64,23,CALL_CENTER,Arlington,2003-09-21
+CUST-00558,Amara Taylor,amara.taylor558@example.com,retail,55-64,15,ONLINE,Dallas,2011-01-25
+CUST-00559,Liam Lopez,liam.lopez559@example.com,RETAIL,35-44,6,MOBILE,San Antonio,2020-10-27
+CUST-00560,Carlos Evans,carlos.evans560@example.com,PREMIER,35-44,21,MOBILE,Dallas,2005-07-01
+CUST-00561,Wei Murphy,wei.murphy561@example.com,PREMIER,65+,22,MOBILE,Plano,2004-08-31
+CUST-00562,Emily Garcia,emily.garcia562@example.com,RETAIL,25-34,14,MOBILE,San Antonio,2012-06-01
+CUST-00563,Wei Walsh,wei.walsh563@example.com,RETAIL,45-54,7,MOBILE,Frisco,2019-08-28
+CUST-00564,Amara Murphy,amara.murphy564@example.com,RETAIL,35-44,18,BRANCH,Fort Worth,2008-09-09
+CUST-00565,Emily Okafor,emily.okafor565@example.com,Retail,25-34,21,CALL_CENTER,Austin,2005-06-22
+CUST-00566,Mohammed Garcia,mohammed.garcia566@example.com,retail,45-54,8,MOBILE,,2017-11-20
+CUST-00567,Carlos Lopez,carlos.lopez567@example.com,RETAIL,25-34,12,MOBILE,Arlington,2014-08-05
+CUST-00568,Sophie Jones,sophie.jones568@example.com,RETAIL,25-34,1,MOBILE,Austin,2025-06-19
+CUST-00569,John Khan,john.khan569@example.com,PREMIER,25-34,15,BRANCH,San Antonio,2010-12-28
+CUST-00570,George Jones,george.jones570@example.com,RETAIL,55-64,13,CALL_CENTER,El Paso,2013-05-31
+CUST-00571,Carlos Brown,carlos.brown571@example.com,RETAIL,18-24,2,BRANCH,Plano,2024-07-02
+CUST-00572,Carlos Jones,carlos.jones572@example.com,RETAIL,45-54,15,ONLINE,Houston,2011-04-19
+CUST-00573,Mary Kim,mary.kim573@example.com,Premier,55-64,15,MOBILE,Frisco,2010-12-13
+CUST-00574,George Nguyen,george.nguyen574@example.com,RETAIL,18-24,1,ONLINE,Austin,2025-08-05
+CUST-00575,Liam Khan,liam.khan575@example.com,RETAIL,18-24,4,BRANCH,Arlington,2022-09-20
+CUST-00576,Carlos Khan,carlos.khan576@example.com,RETAIL,65+,13,MOBILE,San Antonio,2013-10-16
+CUST-00577,Amara Wilson,amara.wilson577@example.com,RETAIL,45-54,23,ONLINE,Houston,2003-10-15
+CUST-00578,Amara Brown,amara.brown578@example.com,premier,45-54,7,BRANCH,Houston,2019-11-05
+CUST-00579,Mei Smith,mei.smith579@example.com,RETAIL,45-54,16,CALL_CENTER,Arlington,2010-07-10
+CUST-00580,James Garcia,james.garcia580@example.com,premier,25-34,9,CALL_CENTER,Austin,2016-12-24
+CUST-00581,Aisha Jones,aisha.jones581@example.com,RETAIL,18-24,2,CALL_CENTER,El Paso,2023-11-29
+CUST-00582,Priya Nguyen,priya.nguyen582@example.com,WEALTH,55-64,6,MOBILE,El Paso,2019-11-27
+CUST-00583,Raj Singh,raj.singh583@example.com,PREMIER,45-54,3,CALL_CENTER,Plano,2023-06-05
+CUST-00584,Olivia Lopez,olivia.lopez584@example.com,RETAIL,65+,23,MOBILE,Plano,2003-06-23
+CUST-00585,Mary Brown,mary.brown585@example.com,RETAIL,55-64,21,ONLINE,Arlington,2005-02-12
+CUST-00586,Emily Murphy,emily.murphy586@example.com,RETAIL,45-54,19,BRANCH,Fort Worth,2006-12-25
+CUST-00587,Grace Khan,grace.khan587@example.com,premier,18-24,8,BRANCH,Austin,2017-11-09
+CUST-00588,Priya Taylor,priya.taylor588@example.com,PREMIER,65+,14,MOBILE,San Antonio,2012-04-10
+CUST-00589,James Taylor,james.taylor589@example.com,RETAIL,18-24,9,CALL_CENTER,Frisco,2017-10-03
+CUST-00590,Liam Murphy,liam.murphy590@example.com,RETAIL,35-44,19,BRANCH,Fort Worth,2006-12-29
+CUST-00591,Grace Jones,grace.jones591@example.com,RETAIL,45-54,16,BRANCH,Frisco,2010-08-21
+CUST-00592,Mary Kim,mary.kim592@example.com,retail,55-64,24,ONLINE,Frisco,2001-11-28
+CUST-00593,Aisha Patel,aisha.patel593@example.com,WEALTH,25-34,9,BRANCH,Plano,2017-10-22
+CUST-00594,Amara Brown,amara.brown594@example.com,PREMIER,35-44,25,BRANCH,San Antonio,2001-06-06
+CUST-00595,John Lopez,john.lopez595@example.com,PREMIER,35-44,12,MOBILE,Houston,2014-03-21
+CUST-00596,Priya Singh,priya.singh596@example.com,PREMIER,45-54,25,MOBILE,Arlington,2001-07-30
+CUST-00597,David Murphy,david.murphy597@example.com, PREMIER ,18-24,24,MOBILE,San Antonio,2002-02-15
+CUST-00598,David Jones,david.jones598@example.com,RETAIL,65+,23,CALL_CENTER,Houston,2003-02-16
+CUST-00599,Liam Ahmed,liam.ahmed599@example.com,premier,35-44,4,MOBILE,Houston,2022-02-12
+CUST-00600,Liam Taylor,liam.taylor600@example.com,RETAIL,35-44,9,MOBILE,Arlington,2017-02-07
+CUST-00601,Amara Evans,amara.evans601@example.com,RETAIL,55-64,20,ONLINE,Austin,2006-01-27
+CUST-00602,Mohammed Wilson,mohammed.wilson602@example.com,PREMIER,35-44,10,BRANCH,Denton,2016-01-18
+CUST-00603,Mary Wilson,mary.wilson603@example.com,Retail,45-54,22,MOBILE,Dallas,2004-10-15
+CUST-00604,Raj Singh,raj.singh604@example.com,RETAIL,45-54,7,MOBILE,Denton,2018-11-28
+CUST-00605,John Ahmed,john.ahmed605@example.com,RETAIL,25-34,10,MOBILE,Arlington,2015-11-22
+CUST-00606,Mohammed Singh,mohammed.singh606@example.com,RETAIL,18-24,23,CALL_CENTER,San Antonio,2002-12-05
+CUST-00607,Grace Brown,grace.brown607@example.com,RETAIL,25-34,15,CALL_CENTER,San Antonio,2011-08-13
+CUST-00608,George Brown,george.brown608@example.com,RETAIL,55-64,21,BRANCH,Frisco,2005-10-04
+CUST-00609,Sophie Garcia,sophie.garcia609@example.com,RETAIL,55-64,16,BRANCH,Austin,2010-04-26
+CUST-00610,Emily Murphy,emily.murphy610@example.com,RETAIL,65+,8,BRANCH,Denton,2018-08-10
+CUST-00611,Priya Ahmed,priya.ahmed611@example.com,retail,18-24,4,BRANCH,Plano,2022-03-23
+CUST-00612,Liam Lopez,liam.lopez612@example.com,RETAIL,65+,2,CALL_CENTER,Fort Worth,2024-09-19
+CUST-00613,Wei Wilson,wei.wilson613@example.com,RETAIL,65+,10,ONLINE,Arlington,2016-04-21
+CUST-00614,Olivia Okafor,olivia.okafor614@example.com,premier,55-64,14,BRANCH,El Paso,2012-05-15
+CUST-00615,Wei Okafor,wei.okafor615@example.com,RETAIL,35-44,18,CALL_CENTER,,2008-10-12
+CUST-00616,Olivia Smith,olivia.smith616@example.com,RETAIL,45-54,23,BRANCH,San Antonio,2003-01-12
+CUST-00617,Emily Walsh,emily.walsh617@example.com,RETAIL,35-44,6,BRANCH,Frisco,2020-03-07
+CUST-00618,Wei Okafor,wei.okafor618@example.com,WEALTH,25-34,22,BRANCH,Denton,2004-09-06
+CUST-00619,Emily Wilson,emily.wilson619@example.com,RETAIL,55-64,21,MOBILE,El Paso,2005-04-11
+CUST-00620,Raj Kim,raj.kim620@example.com,RETAIL,18-24,15,BRANCH,Fort Worth,2011-04-26
+CUST-00621,Sophie Kim,sophie.kim621@example.com,RETAIL,65+,18,ONLINE,Dallas,2008-01-18
+CUST-00622,Priya Lopez,priya.lopez622@example.com,WEALTH,35-44,3,BRANCH,Frisco,2023-08-25
+CUST-00623,Carlos Patel,carlos.patel623@example.com,RETAIL,55-64,20,ONLINE,Denton,2006-09-25
+CUST-00624,Mary Murphy,mary.murphy624@example.com,RETAIL,35-44,1,BRANCH,Arlington,2025-03-09
+CUST-00625,Aisha Okafor,aisha.okafor625@example.com,RETAIL,55-64,2,ONLINE,Houston,2023-11-15
+CUST-00626,Mary Lopez,mary.lopez626@example.com,RETAIL,55-64,19,CALL_CENTER,Houston,2007-10-14
+CUST-00627,Olivia Lopez,olivia.lopez627@example.com,RETAIL,55-64,17,ONLINE,Houston,2009-09-30
+CUST-00628,Mohammed Evans,mohammed.evans628@example.com,RETAIL,65+,4,BRANCH,El Paso,2021-12-31
+CUST-00629,Aisha Khan,aisha.khan629@example.com,RETAIL,35-44,23,CALL_CENTER,Frisco,2003-07-13
+CUST-00630,Wei Wilson,wei.wilson630@example.com,PREMIER,65+,25,MOBILE,Austin,2001-04-13
+CUST-00631,David Singh,david.singh631@example.com,RETAIL,35-44,9,BRANCH,Arlington,2017-09-08
+CUST-00632,Mei Garcia,mei.garcia632@example.com,RETAIL,45-54,23,CALL_CENTER,Fort Worth,2003-04-25
+CUST-00633,Olivia Ahmed,olivia.ahmed633@example.com,Retail,55-64,11,ONLINE,Dallas,2015-02-09
+CUST-00634,Emily Evans,emily.evans634@example.com,RETAIL,65+,9,MOBILE,El Paso,2017-09-17
+CUST-00635,David Kim,david.kim635@example.com,RETAIL,18-24,23,CALL_CENTER,Dallas,2003-08-10
+CUST-00636,Emily Brown,emily.brown636@example.com,RETAIL,18-24,22,CALL_CENTER,Houston,2004-03-26
+CUST-00637,John Jones,john.jones637@example.com,PREMIER,18-24,22,CALL_CENTER,Denton,2004-07-21
+CUST-00638,Wei Clarke,wei.clarke638@example.com,RETAIL,65+,21,MOBILE,Fort Worth,2005-01-24
+CUST-00639,Mohammed Okafor,mohammed.okafor639@example.com,RETAIL,65+,3,ONLINE,Houston,2022-12-13
+CUST-00640,Mohammed Khan,mohammed.khan640@example.com,PREMIER,35-44,9,ONLINE,San Antonio,2017-10-06
+CUST-00641,Amara Ahmed,amara.ahmed641@example.com,Retail,55-64,7,BRANCH,Arlington,2018-12-29
+CUST-00642,David Brown,david.brown642@example.com,premier,65+,23,ONLINE,Denton,2003-07-01
+CUST-00643,Raj Smith,raj.smith643@example.com,PREMIER,35-44,5,MOBILE,Dallas,2020-12-06
+CUST-00644,Liam Clarke,liam.clarke644@example.com,RETAIL,45-54,17,CALL_CENTER,Arlington,2008-11-11
+CUST-00645,Mei Garcia,mei.garcia645@example.com,RETAIL,35-44,23,ONLINE,Frisco,2003-03-09
+CUST-00646,Olivia Clarke,olivia.clarke646@example.com,Retail,45-54,21,ONLINE,San Antonio,2005-09-24
+CUST-00647,David Khan,david.khan647@example.com,RETAIL,65+,13,ONLINE,Plano,2012-12-04
+CUST-00648,Grace Patel,grace.patel648@example.com,premier,55-64,15,MOBILE,Austin,2011-08-03
+CUST-00649,Grace Clarke,grace.clarke649@example.com,RETAIL,45-54,18,CALL_CENTER,Frisco,2007-12-15
+CUST-00650,Mary Murphy,mary.murphy650@example.com,RETAIL,65+,24,BRANCH,Austin,2002-10-20
+CUST-00651,Mei Wilson,mei.wilson651@example.com,RETAIL,18-24,8,BRANCH,Fort Worth,2018-10-01
+CUST-00652,Mary Garcia,mary.garcia652@example.com,RETAIL,18-24,5,BRANCH,Dallas,2021-10-29
+CUST-00653,Amara Patel,amara.patel653@example.com,PREMIER,25-34,4,BRANCH,El Paso,2022-09-08
+CUST-00654,Liam Clarke,liam.clarke654@example.com,RETAIL,25-34,22,CALL_CENTER,San Antonio,2004-01-20
+CUST-00655,Amara Murphy,amara.murphy655@example.com,RETAIL,55-64,9,MOBILE,Fort Worth,2017-08-26
+CUST-00656,Raj Garcia,raj.garcia656@example.com,PREMIER,25-34,2,CALL_CENTER,El Paso,2024-08-28
+CUST-00657,Grace Patel,grace.patel657@example.com,RETAIL,45-54,6,BRANCH,El Paso,2020-09-21
+CUST-00658,Wei Taylor,wei.taylor658@example.com,RETAIL,55-64,9,CALL_CENTER,Austin,2017-02-12
+CUST-00659,Amara Lopez,amara.lopez659@example.com,RETAIL,18-24,3,MOBILE,Houston,2022-12-19
+CUST-00660,David Brown,david.brown660@example.com,WEALTH,45-54,4,MOBILE,Frisco,2021-12-24
+CUST-00661,Mohammed Jones,mohammed.jones661@example.com,RETAIL,25-34,5,CALL_CENTER,Arlington,2020-11-20
+CUST-00662,Mary Singh,mary.singh662@example.com,retail,65+,14,CALL_CENTER,Arlington,2012-07-02
+CUST-00663,Mei Khan,mei.khan663@example.com,RETAIL,65+,1,BRANCH,Denton,2025-03-01
+CUST-00664,Liam Nguyen,liam.nguyen664@example.com,RETAIL,18-24,22,MOBILE,Denton,2004-05-27
+CUST-00665,Emily Taylor,emily.taylor665@example.com,retail,45-54,8,MOBILE,Arlington,2018-09-30
+CUST-00666,David Ahmed,david.ahmed666@example.com,RETAIL,35-44,12,MOBILE,Austin,2014-08-30
+CUST-00667,Liam Wilson,liam.wilson667@example.com,RETAIL,45-54,19,BRANCH,Denton,2007-10-10
+CUST-00668,Amara Murphy,amara.murphy668@example.com,RETAIL,55-64,10,MOBILE,El Paso,2016-01-02
+CUST-00669,John Nguyen,john.nguyen669@example.com,PREMIER,65+,16,BRANCH,Arlington,2010-07-21
+CUST-00670,Sophie Garcia,sophie.garcia670@example.com,RETAIL,55-64,19,CALL_CENTER,El Paso,2007-07-19
+CUST-00671,Emily Jones,emily.jones671@example.com,RETAIL,65+,16,CALL_CENTER,Frisco,2010-02-23
+CUST-00672,Raj Lopez,raj.lopez672@example.com,RETAIL,25-34,18,ONLINE,Plano,2008-11-02
+CUST-00673,Olivia Garcia,olivia.garcia673@example.com, RETAIL ,45-54,3,CALL_CENTER,Houston,2023-10-28
+CUST-00674,Raj Ahmed,raj.ahmed674@example.com,PREMIER,65+,23,CALL_CENTER,San Antonio,2003-04-17
+CUST-00675,John Clarke,john.clarke675@example.com,PREMIER,65+,11,MOBILE,Plano,2015-02-09
+CUST-00676,John Murphy,john.murphy676@example.com,RETAIL,18-24,2,BRANCH,San Antonio,2024-02-15
+CUST-00677,Aisha Ahmed,aisha.ahmed677@example.com,RETAIL,55-64,12,MOBILE,Frisco,2014-05-04
+CUST-00678,Wei Murphy,wei.murphy678@example.com,RETAIL,65+,4,MOBILE,El Paso,2021-12-08
+CUST-00679,Sophie Murphy,sophie.murphy679@example.com,retail,35-44,9,ONLINE,Houston,2017-02-22
+CUST-00680,Raj Lopez,raj.lopez680@example.com,RETAIL,45-54,4,ONLINE,Frisco,2022-03-10
+CUST-00681,John Taylor,john.taylor681@example.com,PREMIER,18-24,15,CALL_CENTER,Fort Worth,2011-09-25
+CUST-00682,Amara Evans,amara.evans682@example.com,RETAIL,65+,5,CALL_CENTER,Austin,2021-02-24
+CUST-00683,Olivia Nguyen,olivia.nguyen683@example.com,WEALTH,65+,18,CALL_CENTER,Plano,2008-09-02
+CUST-00684,Olivia Taylor,olivia.taylor684@example.com,RETAIL,65+,8,ONLINE,Plano,2018-02-13
+CUST-00685,Grace Kim,grace.kim685@example.com,PREMIER,35-44,15,MOBILE,Fort Worth,2011-03-19
+CUST-00686,Mohammed Garcia,mohammed.garcia686@example.com,RETAIL,25-34,10,MOBILE,Houston,2016-10-13
+CUST-00687,Mei Okafor,mei.okafor687@example.com, RETAIL ,18-24,6,CALL_CENTER,Fort Worth,2019-11-09
+CUST-00688,Liam Wilson,liam.wilson688@example.com,RETAIL,35-44,12,MOBILE,Dallas,2014-08-05
+CUST-00689,Aisha Ahmed,aisha.ahmed689@example.com,RETAIL,45-54,6,MOBILE,Dallas,2020-02-06
+CUST-00690,Raj Murphy,raj.murphy690@example.com,RETAIL,35-44,24,BRANCH,San Antonio,2002-02-04
+CUST-00691,Olivia Wilson,olivia.wilson691@example.com,PREMIER,18-24,24,MOBILE,Denton,2002-03-29
+CUST-00692,Mei Brown,mei.brown692@example.com,RETAIL,35-44,13,CALL_CENTER,Arlington,2012-12-26
+CUST-00693,David Kim,david.kim693@example.com,RETAIL,45-54,25,CALL_CENTER,Denton,2001-06-21
+CUST-00694,Carlos Clarke,carlos.clarke694@example.com,RETAIL,35-44,11,BRANCH,Dallas,2015-01-03
+CUST-00695,Wei Nguyen,wei.nguyen695@example.com,RETAIL,45-54,12,CALL_CENTER,San Antonio,2014-11-01
+CUST-00696,David Ahmed,david.ahmed696@example.com,RETAIL,45-54,14,MOBILE,Plano,2012-03-26
+CUST-00697,John Wilson,john.wilson697@example.com,RETAIL,55-64,16,BRANCH,Denton,2010-02-13
+CUST-00698,John Smith,john.smith698@example.com,RETAIL,25-34,9,MOBILE,Arlington,2017-04-08
+CUST-00699,Amara Clarke,amara.clarke699@example.com,RETAIL,35-44,16,BRANCH,Houston,2010-10-18
+CUST-00700,Mei Ahmed,mei.ahmed700@example.com,Retail,65+,1,ONLINE,Arlington,2025-08-18
+CUST-00701,Emily Khan,emily.khan701@example.com,RETAIL,45-54,23,CALL_CENTER,Denton,2002-12-15
+CUST-00702,Aisha Lopez,aisha.lopez702@example.com,RETAIL,65+,9,CALL_CENTER,Denton,2016-12-20
+CUST-00703,Mohammed Khan,mohammed.khan703@example.com,RETAIL,18-24,5,ONLINE,Fort Worth,2021-05-26
+CUST-00704,Aisha Nguyen,aisha.nguyen704@example.com,RETAIL,18-24,12,MOBILE,Frisco,2014-10-14
+CUST-00705,Amara Brown,amara.brown705@example.com,RETAIL,65+,6,ONLINE,San Antonio,2020-02-01
+CUST-00706,Mohammed Singh,mohammed.singh706@example.com,Retail,35-44,19,ONLINE,Dallas,2007-05-13
+CUST-00707,Grace Nguyen,grace.nguyen707@example.com,RETAIL,25-34,6,CALL_CENTER,Frisco,2020-09-14
+CUST-00708,Emily Ahmed,emily.ahmed708@example.com,PREMIER,65+,4,ONLINE,Arlington,2022-08-30
+CUST-00709,Wei Ahmed,wei.ahmed709@example.com, PREMIER ,35-44,20,CALL_CENTER,San Antonio,2006-02-15
+CUST-00710,Priya Garcia,priya.garcia710@example.com,Retail,25-34,23,CALL_CENTER,Houston,2003-08-30
+CUST-00711,Emily Brown,emily.brown711@example.com,RETAIL,18-24,25,CALL_CENTER,Dallas,2001-03-08
+CUST-00712,Grace Brown,grace.brown712@example.com,PREMIER,18-24,2,MOBILE,Dallas,2024-10-02
+CUST-00713,David Khan,david.khan713@example.com,RETAIL,35-44,1,ONLINE,Houston,2025-09-19
+CUST-00714,Amara Kim,amara.kim714@example.com,Premier,55-64,20,CALL_CENTER,Denton,2006-07-09
+CUST-00715,Carlos Taylor,carlos.taylor715@example.com,retail,65+,10,CALL_CENTER,Frisco,2016-08-11
+CUST-00716,David Kim,david.kim716@example.com,PREMIER,18-24,16,MOBILE,Fort Worth,2010-05-05
+CUST-00717,Aisha Clarke,aisha.clarke717@example.com,Retail,18-24,17,MOBILE,San Antonio,2009-07-15
+CUST-00718,Grace Singh,grace.singh718@example.com,Retail,35-44,18,BRANCH,Arlington,2008-10-19
+CUST-00719,Olivia Ahmed,olivia.ahmed719@example.com,RETAIL,18-24,14,BRANCH,Plano,2012-06-12
+CUST-00720,Aisha Khan,aisha.khan720@example.com,RETAIL,65+,22,CALL_CENTER,Plano,2004-03-03
+CUST-00721,Priya Wilson,priya.wilson721@example.com,retail,25-34,23,ONLINE,Fort Worth,2003-01-12
+CUST-00722,David Clarke,david.clarke722@example.com,RETAIL,65+,14,BRANCH,El Paso,2012-02-26
+CUST-00723,Aisha Lopez,aisha.lopez723@example.com,RETAIL,18-24,13,CALL_CENTER,Fort Worth,2013-03-04
+CUST-00724,Mohammed Lopez,mohammed.lopez724@example.com,RETAIL,18-24,21,BRANCH,,2005-09-02
+CUST-00725,James Khan,james.khan725@example.com,RETAIL,18-24,22,BRANCH,El Paso,2004-05-26
+CUST-00726,Raj Taylor,raj.taylor726@example.com,RETAIL,55-64,16,CALL_CENTER,Frisco,2010-03-02
+CUST-00727,Mary Nguyen,mary.nguyen727@example.com,PREMIER,18-24,4,CALL_CENTER,Plano,2022-04-23
+CUST-00728,Amara Walsh,amara.walsh728@example.com,RETAIL,25-34,25,ONLINE,Fort Worth,2001-06-08
+CUST-00729,George Lopez,george.lopez729@example.com,PREMIER,55-64,19,BRANCH,Frisco,2006-11-29
+CUST-00730,Grace Walsh,grace.walsh730@example.com,PREMIER,45-54,17,ONLINE,Arlington,2009-10-11
+CUST-00731,Olivia Murphy,olivia.murphy731@example.com,RETAIL,65+,19,CALL_CENTER,San Antonio,2007-10-17
+CUST-00732,Liam Clarke,liam.clarke732@example.com,RETAIL,25-34,12,MOBILE,Dallas,2014-05-09
+CUST-00733,Olivia Patel,olivia.patel733@example.com,premier,35-44,3,CALL_CENTER,Fort Worth,2023-06-02
+CUST-00734,Raj Nguyen,raj.nguyen734@example.com,RETAIL,18-24,14,ONLINE,,2012-06-24
+CUST-00735,George Clarke,george.clarke735@example.com,RETAIL,55-64,4,ONLINE,Austin,2022-02-28
+CUST-00736,Amara Okafor,amara.okafor736@example.com,RETAIL,55-64,14,MOBILE,Denton,2012-07-27
+CUST-00737,Olivia Evans,olivia.evans737@example.com,RETAIL,18-24,19,CALL_CENTER,El Paso,2007-04-18
+CUST-00738,Liam Evans,liam.evans738@example.com,RETAIL,65+,17,ONLINE,San Antonio,2009-03-10
+CUST-00739,Carlos Okafor,carlos.okafor739@example.com,RETAIL,55-64,18,BRANCH,Plano,2008-06-01
+CUST-00740,Mei Khan,mei.khan740@example.com,PREMIER,25-34,21,BRANCH,Fort Worth,2004-11-14
+CUST-00741,Mohammed Walsh,mohammed.walsh741@example.com,PREMIER,35-44,25,BRANCH,Dallas,2001-04-02
+CUST-00742,Wei Garcia,wei.garcia742@example.com,RETAIL,18-24,22,MOBILE,Plano,2004-06-09
+CUST-00743,Emily Evans,emily.evans743@example.com,PREMIER,25-34,21,CALL_CENTER,El Paso,2005-08-19
+CUST-00744,Wei Taylor,wei.taylor744@example.com,RETAIL,18-24,10,MOBILE,Plano,2016-03-14
+CUST-00745,Amara Evans,amara.evans745@example.com,RETAIL,18-24,9,BRANCH,Fort Worth,2017-06-17
+CUST-00746,James Jones,james.jones746@example.com,PREMIER,45-54,3,ONLINE,Denton,2023-05-29
+CUST-00747,John Clarke,john.clarke747@example.com,PREMIER,18-24,24,ONLINE,El Paso,2002-08-31
+CUST-00748,Grace Patel,grace.patel748@example.com,RETAIL,65+,4,MOBILE,El Paso,2022-05-29
+CUST-00749,Emily Taylor,emily.taylor749@example.com,RETAIL,55-64,6,CALL_CENTER,Arlington,2020-07-19
+CUST-00750,Grace Walsh,grace.walsh750@example.com,RETAIL,35-44,4,MOBILE,Arlington,2022-05-27
+CUST-00751,Aisha Lopez,aisha.lopez751@example.com,retail,65+,10,CALL_CENTER,El Paso,2016-10-27
+CUST-00752,Sophie Evans,sophie.evans752@example.com,RETAIL,65+,10,CALL_CENTER,San Antonio,2015-12-15
+CUST-00753,Mei Garcia,mei.garcia753@example.com,PREMIER,35-44,13,ONLINE,Plano,2013-11-03
+CUST-00754,John Garcia,john.garcia754@example.com,RETAIL,35-44,6,CALL_CENTER,Plano,2020-03-26
+CUST-00755,Grace Lopez,grace.lopez755@example.com,RETAIL,65+,11,ONLINE,Denton,2015-04-05
+CUST-00756,Carlos Patel,carlos.patel756@example.com,RETAIL,18-24,20,MOBILE,Arlington,2006-02-02
+CUST-00757,Raj Wilson,raj.wilson757@example.com,Retail,25-34,7,MOBILE,El Paso,2018-12-20
+CUST-00758,Carlos Wilson,carlos.wilson758@example.com,PREMIER,65+,22,MOBILE,San Antonio,2004-04-13
+CUST-00759,Mohammed Khan,mohammed.khan759@example.com,RETAIL,45-54,11,BRANCH,Plano,2015-06-16
+CUST-00760,Sophie Smith,sophie.smith760@example.com,PREMIER,45-54,18,MOBILE,Austin,2007-12-13
+CUST-00761,Mohammed Khan,mohammed.khan761@example.com,Retail,35-44,20,MOBILE,Fort Worth,2006-04-04
+CUST-00762,Priya Smith,priya.smith762@example.com,Retail,65+,14,MOBILE,Arlington,2012-03-20
+CUST-00763,David Evans,david.evans763@example.com,RETAIL,35-44,16,MOBILE,Austin,2010-04-27
+CUST-00764,Emily Khan,emily.khan764@example.com,RETAIL,45-54,5,MOBILE,Houston,2021-10-22
+CUST-00765,Aisha Ahmed,aisha.ahmed765@example.com,RETAIL,65+,16,BRANCH,Plano,2010-09-01
+CUST-00766,Emily Evans,emily.evans766@example.com,RETAIL,35-44,18,CALL_CENTER,Austin,2008-10-09
+CUST-00767,James Evans,james.evans767@example.com,Retail,55-64,13,CALL_CENTER,San Antonio,2013-06-06
+CUST-00768,Amara Evans,amara.evans768@example.com,Retail,65+,16,BRANCH,Fort Worth,2010-05-19
+CUST-00769,Wei Evans,wei.evans769@example.com,RETAIL,45-54,2,ONLINE,Houston,2024-08-31
+CUST-00770,Mohammed Evans,mohammed.evans770@example.com,RETAIL,25-34,14,BRANCH,Arlington,2012-08-15
+CUST-00771,Mary Taylor,mary.taylor771@example.com, RETAIL ,45-54,8,BRANCH,Houston,2018-08-05
+CUST-00772,Priya Lopez,priya.lopez772@example.com,RETAIL,65+,12,MOBILE,Arlington,2013-11-09
+CUST-00773,Priya Singh,priya.singh773@example.com,RETAIL,55-64,10,MOBILE,Frisco,2016-08-06
+CUST-00774,James Kim,james.kim774@example.com,PREMIER,65+,6,CALL_CENTER,Austin,2020-04-06
+CUST-00775,Liam Smith,liam.smith775@example.com,RETAIL,18-24,22,ONLINE,El Paso,2004-09-08
+CUST-00776,Wei Smith,wei.smith776@example.com,RETAIL,18-24,23,ONLINE,Houston,2002-12-08
+CUST-00777,Mary Ahmed,mary.ahmed777@example.com,RETAIL,35-44,24,ONLINE,Dallas,2002-01-23
+CUST-00778,Mary Patel,mary.patel778@example.com, RETAIL ,45-54,20,CALL_CENTER,Houston,2006-04-28
+CUST-00779,James Taylor,james.taylor779@example.com,Retail,45-54,25,BRANCH,Fort Worth,2001-04-18
+CUST-00780,Olivia Wilson,olivia.wilson780@example.com,RETAIL,45-54,4,BRANCH,Arlington,2022-05-01
+CUST-00781,Mohammed Nguyen,mohammed.nguyen781@example.com,RETAIL,18-24,14,CALL_CENTER,Plano,2012-05-03
+CUST-00782,Carlos Murphy,carlos.murphy782@example.com,WEALTH,55-64,22,CALL_CENTER,Fort Worth,2004-07-18
+CUST-00783,Olivia Ahmed,olivia.ahmed783@example.com,RETAIL,35-44,16,MOBILE,Fort Worth,2010-06-08
+CUST-00784,Carlos Nguyen,carlos.nguyen784@example.com,RETAIL,55-64,2,BRANCH,Dallas,2024-01-27
+CUST-00785,Emily Brown,emily.brown785@example.com,RETAIL,18-24,24,CALL_CENTER,San Antonio,2002-01-23
+CUST-00786,Priya Ahmed,priya.ahmed786@example.com,RETAIL,35-44,6,ONLINE,Plano,2020-04-18
+CUST-00787,Raj Ahmed,raj.ahmed787@example.com,RETAIL,18-24,9,ONLINE,Fort Worth,2017-05-16
+CUST-00788,Priya Nguyen,priya.nguyen788@example.com,RETAIL,45-54,1,BRANCH,Fort Worth,2025-04-16
+CUST-00789,Grace Okafor,grace.okafor789@example.com,RETAIL,18-24,20,MOBILE,Plano,2006-05-09
+CUST-00790,Wei Smith,wei.smith790@example.com,RETAIL,65+,1,MOBILE,Dallas,2024-11-13
+CUST-00791,Sophie Nguyen,sophie.nguyen791@example.com, PREMIER ,45-54,18,CALL_CENTER,Arlington,2008-08-03
+CUST-00792,Priya Khan,priya.khan792@example.com,PREMIER,45-54,24,MOBILE,Arlington,2001-11-16
+CUST-00793,David Okafor,david.okafor793@example.com,RETAIL,65+,13,BRANCH,Denton,2013-10-12
+CUST-00794,Emily Lopez,emily.lopez794@example.com,RETAIL,45-54,20,BRANCH,Dallas,2006-01-30
+CUST-00795,Sophie Jones,sophie.jones795@example.com,RETAIL,65+,14,BRANCH,Denton,2012-01-17
+CUST-00796,Grace Brown,grace.brown796@example.com,retail,35-44,21,MOBILE,Plano,2005-05-16
+CUST-00797,Grace Singh,grace.singh797@example.com,RETAIL,65+,17,BRANCH,San Antonio,2009-07-19
+CUST-00798,Wei Okafor,wei.okafor798@example.com,RETAIL,25-34,13,MOBILE,San Antonio,2013-04-08
+CUST-00799,Olivia Patel,olivia.patel799@example.com,RETAIL,45-54,5,BRANCH,El Paso,2021-08-09
+CUST-00800,Olivia Garcia,olivia.garcia800@example.com,RETAIL,25-34,2,MOBILE,Houston,2024-10-26
+CUST-00801,Carlos Jones,carlos.jones801@example.com,Premier,25-34,11,BRANCH,Austin,2015-04-01
+CUST-00802,Mohammed Murphy,mohammed.murphy802@example.com,PREMIER,25-34,25,CALL_CENTER,Frisco,2001-10-18
+CUST-00803,Mary Ahmed,mary.ahmed803@example.com,PREMIER,18-24,25,CALL_CENTER,El Paso,2001-09-15
+CUST-00804,Carlos Brown,carlos.brown804@example.com,RETAIL,65+,4,BRANCH,Fort Worth,2022-07-23
+CUST-00805,Carlos Lopez,carlos.lopez805@example.com,RETAIL,18-24,4,MOBILE,San Antonio,2022-08-19
+CUST-00806,Raj Nguyen,raj.nguyen806@example.com,PREMIER,55-64,1,MOBILE,Arlington,2025-07-02
+CUST-00807,John Evans,john.evans807@example.com, RETAIL ,55-64,25,BRANCH,Austin,2001-04-12
+CUST-00808,Sophie Wilson,sophie.wilson808@example.com,PREMIER,35-44,14,CALL_CENTER,Frisco,2012-04-12
+CUST-00809,Raj Wilson,raj.wilson809@example.com,PREMIER,45-54,23,MOBILE,Denton,2003-02-19
+CUST-00810,Emily Jones,emily.jones810@example.com,RETAIL,18-24,2,ONLINE,Fort Worth,2023-12-02
+CUST-00811,Emily Clarke,emily.clarke811@example.com,PREMIER,18-24,23,ONLINE,San Antonio,2003-01-31
+CUST-00812,Carlos Wilson,carlos.wilson812@example.com,RETAIL,55-64,15,BRANCH,Frisco,2010-12-14
+CUST-00813,Aisha Clarke,aisha.clarke813@example.com,PREMIER,65+,10,MOBILE,San Antonio,2016-09-24
+CUST-00814,Carlos Walsh,carlos.walsh814@example.com,RETAIL,65+,3,MOBILE,Frisco,2023-02-17
+CUST-00815,James Smith,james.smith815@example.com,PREMIER,55-64,18,CALL_CENTER,Houston,2008-01-10
+CUST-00816,Mary Singh,mary.singh816@example.com,RETAIL,55-64,17,CALL_CENTER,Denton,2009-05-11
+CUST-00817,Raj Murphy,raj.murphy817@example.com,WEALTH,25-34,24,ONLINE,Frisco,2002-01-17
+CUST-00818,Olivia Okafor,olivia.okafor818@example.com,RETAIL,25-34,23,CALL_CENTER,Plano,2003-01-21
+CUST-00819,Liam Kim,liam.kim819@example.com,RETAIL,45-54,25,CALL_CENTER,Fort Worth,2001-05-10
+CUST-00820,John Jones,john.jones820@example.com,RETAIL,55-64,5,BRANCH,Denton,2021-03-07
+CUST-00821,Mei Kim,mei.kim821@example.com,PREMIER,65+,9,BRANCH,Plano,2017-01-11
+CUST-00822,Emily Khan,emily.khan822@example.com,RETAIL,55-64,5,CALL_CENTER,Fort Worth,2021-03-02
+CUST-00823,David Ahmed,david.ahmed823@example.com,RETAIL,18-24,24,BRANCH,San Antonio,2002-08-22
+CUST-00824,Priya Brown,priya.brown824@example.com,RETAIL,35-44,10,ONLINE,Denton,2016-10-17
+CUST-00825,Olivia Lopez,olivia.lopez825@example.com,retail,35-44,5,ONLINE,Plano,2021-08-25
+CUST-00826,David Khan,david.khan826@example.com,premier,18-24,16,BRANCH,San Antonio,2010-11-07
+CUST-00827,Grace Okafor,grace.okafor827@example.com,Retail,25-34,11,BRANCH,El Paso,2015-04-28
+CUST-00828,Raj Ahmed,raj.ahmed828@example.com,RETAIL,45-54,24,BRANCH,El Paso,2002-05-28
+CUST-00829,Sophie Clarke,sophie.clarke829@example.com,RETAIL,25-34,2,CALL_CENTER,Houston,2023-11-27
+CUST-00830,Olivia Walsh,olivia.walsh830@example.com,RETAIL,18-24,21,MOBILE,El Paso,2005-01-27
+CUST-00831,Grace Kim,grace.kim831@example.com,PREMIER,35-44,4,MOBILE,Fort Worth,2021-12-03
+CUST-00832,Sophie Ahmed,sophie.ahmed832@example.com,retail,18-24,18,ONLINE,El Paso,2008-01-03
+CUST-00833,Emily Khan,emily.khan833@example.com,Retail,18-24,17,MOBILE,Denton,2009-05-30
+CUST-00834,Olivia Wilson,olivia.wilson834@example.com,RETAIL,18-24,25,ONLINE,Plano,2001-09-26
+CUST-00835,Amara Smith,amara.smith835@example.com,RETAIL,35-44,10,ONLINE,Fort Worth,2016-04-21
+CUST-00836,George Brown,george.brown836@example.com,RETAIL,55-64,8,BRANCH,Arlington,2018-01-05
+CUST-00837,Priya Evans,priya.evans837@example.com,retail,65+,15,MOBILE,Arlington,2011-01-29
+CUST-00838,James Evans,james.evans838@example.com,RETAIL,25-34,19,ONLINE,Frisco,2006-11-29
+CUST-00839,Emily Ahmed,emily.ahmed839@example.com,RETAIL,25-34,21,MOBILE,Fort Worth,2005-02-26
+CUST-00840,Mei Nguyen,mei.nguyen840@example.com,WEALTH,55-64,18,ONLINE,Arlington,2008-03-22
+CUST-00841,Amara Smith,amara.smith841@example.com,RETAIL,65+,16,MOBILE,Plano,2010-06-22
+CUST-00842,Carlos Okafor,carlos.okafor842@example.com,Retail,65+,24,CALL_CENTER,Houston,2002-02-10
+CUST-00843,Wei Walsh,wei.walsh843@example.com,WEALTH,35-44,14,ONLINE,San Antonio,2012-07-23
+CUST-00844,Raj Evans,raj.evans844@example.com,RETAIL,65+,11,MOBILE,El Paso,2015-05-17
+CUST-00845,James Lopez,james.lopez845@example.com,RETAIL,65+,1,BRANCH,Frisco,2024-11-25
+CUST-00846,George Walsh,george.walsh846@example.com,RETAIL,65+,21,BRANCH,Dallas,2004-12-11
+CUST-00847,Priya Singh,priya.singh847@example.com,WEALTH,65+,13,CALL_CENTER,Fort Worth,2013-01-04
+CUST-00848,Priya Ahmed,priya.ahmed848@example.com,RETAIL,35-44,7,ONLINE,,2019-03-24
+CUST-00849,David Patel,david.patel849@example.com,PREMIER,45-54,21,ONLINE,Austin,2005-06-07
+CUST-00850,Mary Evans,mary.evans850@example.com,RETAIL,65+,23,BRANCH,Dallas,2002-11-14
+CUST-00851,Priya Evans,priya.evans851@example.com,RETAIL,55-64,16,MOBILE,El Paso,2010-08-13
+CUST-00852,John Wilson,john.wilson852@example.com,RETAIL,65+,5,ONLINE,Austin,2021-06-26
+CUST-00853,David Smith,david.smith853@example.com,WEALTH,45-54,23,CALL_CENTER,Houston,2002-11-28
+CUST-00854,Emily Jones,emily.jones854@example.com,PREMIER,65+,11,BRANCH,Plano,2015-03-31
+CUST-00855,Grace Singh,grace.singh855@example.com,RETAIL,35-44,2,CALL_CENTER,Plano,2024-07-13
+CUST-00856,George Taylor,george.taylor856@example.com,RETAIL,45-54,19,CALL_CENTER,Austin,2007-10-28
+CUST-00857,Sophie Taylor,sophie.taylor857@example.com,retail,45-54,10,CALL_CENTER,Denton,2016-10-05
+CUST-00858,Liam Evans,liam.evans858@example.com,RETAIL,55-64,16,MOBILE,Dallas,2010-07-09
+CUST-00859,John Ahmed,john.ahmed859@example.com,PREMIER,18-24,21,BRANCH,Denton,2005-03-26
+CUST-00860,Liam Patel,liam.patel860@example.com,PREMIER,18-24,2,CALL_CENTER,El Paso,2024-03-23
+CUST-00861,Mary Walsh,mary.walsh861@example.com,RETAIL,55-64,13,CALL_CENTER,Plano,2013-04-16
+CUST-00862,Raj Clarke,raj.clarke862@example.com,RETAIL,65+,14,CALL_CENTER,San Antonio,2011-12-26
+CUST-00863,Raj Kim,raj.kim863@example.com,RETAIL,55-64,7,MOBILE,El Paso,2019-09-12
+CUST-00864,Wei Kim,wei.kim864@example.com,RETAIL,25-34,14,CALL_CENTER,Arlington,2012-03-06
+CUST-00865,Mary Wilson,mary.wilson865@example.com,RETAIL,55-64,14,MOBILE,San Antonio,2012-02-19
+CUST-00866,Wei Lopez,wei.lopez866@example.com,RETAIL,65+,11,MOBILE,Dallas,2015-06-11
+CUST-00867,Mary Garcia,mary.garcia867@example.com,RETAIL,65+,18,MOBILE,Austin,2008-10-12
+CUST-00868,John Murphy,john.murphy868@example.com,RETAIL,35-44,16,ONLINE,Arlington,2009-11-18
+CUST-00869,Olivia Nguyen,olivia.nguyen869@example.com,RETAIL,18-24,4,MOBILE,Dallas,2022-03-18
+CUST-00870,Sophie Ahmed,sophie.ahmed870@example.com,RETAIL,45-54,8,MOBILE,San Antonio,2018-03-05
+CUST-00871,George Khan,george.khan871@example.com,PREMIER,55-64,1,CALL_CENTER,,2025-05-03
+CUST-00872,Wei Okafor,wei.okafor872@example.com,retail,18-24,21,MOBILE,San Antonio,2005-01-14
+CUST-00873,David Okafor,david.okafor873@example.com,RETAIL,25-34,9,CALL_CENTER,Frisco,2017-08-09
+CUST-00874,Amara Evans,amara.evans874@example.com,PREMIER,25-34,1,ONLINE,Denton,2024-11-23
+CUST-00875,Raj Garcia,raj.garcia875@example.com,RETAIL,55-64,12,BRANCH,Frisco,2013-12-04
+CUST-00876,John Brown,john.brown876@example.com,RETAIL,35-44,5,BRANCH,Plano,2021-07-31
+CUST-00877,Sophie Jones,sophie.jones877@example.com,PREMIER,35-44,19,MOBILE,Houston,2007-08-05
+CUST-00878,Mary Evans,mary.evans878@example.com,PREMIER,45-54,17,CALL_CENTER,Austin,2009-01-13
+CUST-00879,Amara Kim,amara.kim879@example.com,RETAIL,35-44,21,ONLINE,Frisco,2005-02-22
+CUST-00880,Carlos Lopez,carlos.lopez880@example.com,RETAIL,55-64,16,CALL_CENTER,Plano,2010-03-11
+CUST-00881,David Garcia,david.garcia881@example.com,PREMIER,45-54,15,MOBILE,Houston,2011-07-11
+CUST-00882,Aisha Evans,aisha.evans882@example.com,RETAIL,55-64,5,CALL_CENTER,Frisco,2021-09-23
+CUST-00883,Raj Kim,raj.kim883@example.com,RETAIL,45-54,14,ONLINE,Plano,2012-03-22
+CUST-00884,Mohammed Clarke,mohammed.clarke884@example.com,RETAIL,18-24,15,ONLINE,Denton,2011-07-12
+CUST-00885,Carlos Kim,carlos.kim885@example.com,Retail,35-44,3,CALL_CENTER,Denton,2023-06-17
+CUST-00886,Mei Taylor,mei.taylor886@example.com,RETAIL,55-64,22,MOBILE,Houston,2004-05-25
+CUST-00887,Mei Evans,mei.evans887@example.com,RETAIL,55-64,10,CALL_CENTER,Plano,2016-06-15
+CUST-00888,Grace Kim,grace.kim888@example.com,WEALTH,55-64,5,BRANCH,Austin,2021-04-16
+CUST-00889,Raj Murphy,raj.murphy889@example.com,PREMIER,45-54,11,CALL_CENTER,Plano,2015-08-03
+CUST-00890,Aisha Wilson,aisha.wilson890@example.com,RETAIL,65+,5,ONLINE,Dallas,2021-06-02
+CUST-00891,Liam Garcia,liam.garcia891@example.com,RETAIL,55-64,22,CALL_CENTER,Frisco,2004-04-17
+CUST-00892,Mary Wilson,mary.wilson892@example.com,RETAIL,55-64,11,BRANCH,El Paso,2015-01-21
+CUST-00893,George Taylor,george.taylor893@example.com,Premier,55-64,3,BRANCH,Arlington,2023-02-05
+CUST-00894,Olivia Patel,olivia.patel894@example.com,RETAIL,25-34,22,MOBILE,El Paso,2004-01-31
+CUST-00895,John Clarke,john.clarke895@example.com,RETAIL,35-44,8,CALL_CENTER,Denton,2018-06-10
+CUST-00896,Amara Murphy,amara.murphy896@example.com,Premier,45-54,14,BRANCH,Denton,2012-04-21
+CUST-00897,John Clarke,john.clarke897@example.com,WEALTH,65+,7,BRANCH,Houston,2019-09-01
+CUST-00898,Amara Okafor,amara.okafor898@example.com,retail,25-34,17,BRANCH,Austin,2008-11-23
+CUST-00899,John Clarke,john.clarke899@example.com,RETAIL,45-54,8,BRANCH,El Paso,2018-02-10
+CUST-00900,Mary Patel,mary.patel900@example.com,RETAIL,25-34,15,BRANCH,Houston,2011-05-15
+CUST-00901,Sophie Khan,sophie.khan901@example.com,PREMIER,18-24,24,BRANCH,Fort Worth,2002-04-03
+CUST-00902,Mary Garcia,mary.garcia902@example.com,PREMIER,18-24,6,MOBILE,Frisco,2020-06-18
+CUST-00903,Grace Nguyen,grace.nguyen903@example.com,WEALTH,55-64,18,ONLINE,Denton,2008-09-07
+CUST-00904,Emily Ahmed,emily.ahmed904@example.com,retail,65+,7,BRANCH,Dallas,2019-02-20
+CUST-00905,George Murphy,george.murphy905@example.com,Retail,25-34,7,ONLINE,Houston,2019-04-17
+CUST-00906,Raj Lopez,raj.lopez906@example.com, RETAIL ,35-44,3,MOBILE,Arlington,2023-01-29
+CUST-00907,Amara Smith,amara.smith907@example.com, RETAIL ,65+,6,CALL_CENTER,Plano,2020-06-08
+CUST-00908,Mohammed Wilson,mohammed.wilson908@example.com,RETAIL,65+,6,CALL_CENTER,Frisco,2020-07-18
+CUST-00909,Carlos Brown,carlos.brown909@example.com,retail,45-54,10,MOBILE,Dallas,2016-03-24
+CUST-00910,Sophie Singh,sophie.singh910@example.com,premier,18-24,7,ONLINE,,2019-09-21
+CUST-00911,David Patel,david.patel911@example.com,retail,55-64,4,CALL_CENTER,Fort Worth,2021-11-30
+CUST-00912,Liam Murphy,liam.murphy912@example.com,RETAIL,45-54,7,CALL_CENTER,Frisco,2018-12-22
+CUST-00913,Sophie Taylor,sophie.taylor913@example.com,RETAIL,18-24,11,BRANCH,,2015-08-11
+CUST-00914,David Ahmed,david.ahmed914@example.com,retail,25-34,22,BRANCH,San Antonio,2004-06-20
+CUST-00915,Olivia Lopez,olivia.lopez915@example.com, WEALTH ,18-24,4,ONLINE,El Paso,2021-11-06
+CUST-00916,George Wilson,george.wilson916@example.com,retail,18-24,21,BRANCH,Arlington,2004-11-22
+CUST-00917,George Kim,george.kim917@example.com,RETAIL,55-64,8,CALL_CENTER,Dallas,2018-02-22
+CUST-00918,Olivia Garcia,olivia.garcia918@example.com,Retail,45-54,25,ONLINE,Dallas,2001-07-09
+CUST-00919,David Wilson,david.wilson919@example.com,RETAIL,45-54,21,ONLINE,El Paso,2005-10-21
+CUST-00920,Wei Evans,wei.evans920@example.com,RETAIL,35-44,25,CALL_CENTER,Plano,2001-10-21
+CUST-00921,Sophie Murphy,sophie.murphy921@example.com,RETAIL,65+,7,MOBILE,Austin,2019-02-03
+CUST-00922,George Kim,george.kim922@example.com,RETAIL,18-24,15,MOBILE,,2010-12-21
+CUST-00923,Mary Wilson,mary.wilson923@example.com,PREMIER,25-34,5,MOBILE,Frisco,2021-09-20
+CUST-00924,Carlos Patel,carlos.patel924@example.com,RETAIL,25-34,15,MOBILE,Austin,2011-06-02
+CUST-00925,Olivia Okafor,olivia.okafor925@example.com,Retail,35-44,21,BRANCH,Arlington,2005-07-29
+CUST-00926,George Khan,george.khan926@example.com,RETAIL,45-54,14,CALL_CENTER,Plano,2012-02-23
+CUST-00927,George Nguyen,george.nguyen927@example.com,PREMIER,25-34,25,ONLINE,Fort Worth,2001-06-10
+CUST-00928,George Ahmed,george.ahmed928@example.com,retail,25-34,10,BRANCH,Arlington,2016-04-28
+CUST-00929,David Wilson,david.wilson929@example.com,PREMIER,45-54,1,BRANCH,San Antonio,2025-10-29
+CUST-00930,Aisha Clarke,aisha.clarke930@example.com,RETAIL,18-24,21,BRANCH,Dallas,2005-01-12
+CUST-00931,Amara Taylor,amara.taylor931@example.com,PREMIER,35-44,9,CALL_CENTER,Arlington,2017-05-12
+CUST-00932,George Nguyen,george.nguyen932@example.com,RETAIL,65+,8,CALL_CENTER,San Antonio,2018-03-07
+CUST-00933,Wei Evans,wei.evans933@example.com,RETAIL,65+,22,MOBILE,El Paso,2004-08-26
+CUST-00934,James Brown,james.brown934@example.com,PREMIER,18-24,21,MOBILE,Plano,2004-11-10
+CUST-00935,Emily Khan,emily.khan935@example.com,PREMIER,45-54,9,ONLINE,Frisco,2016-11-17
+CUST-00936,Emily Patel,emily.patel936@example.com,RETAIL,65+,19,BRANCH,Houston,2007-05-17
+CUST-00937,Olivia Smith,olivia.smith937@example.com,WEALTH,65+,16,ONLINE,Plano,2010-11-08
+CUST-00938,Emily Khan,emily.khan938@example.com,RETAIL,18-24,6,BRANCH,Arlington,2019-11-11
+CUST-00939,David Khan,david.khan939@example.com,RETAIL,45-54,24,BRANCH,Austin,2002-08-09
+CUST-00940,Priya Khan,priya.khan940@example.com,RETAIL,55-64,3,MOBILE,Denton,2023-04-26
+CUST-00941,Grace Lopez,grace.lopez941@example.com,RETAIL,18-24,4,CALL_CENTER,Dallas,2022-11-01
+CUST-00942,David Kim,david.kim942@example.com,PREMIER,45-54,13,ONLINE,Houston,2013-01-03
+CUST-00943,Emily Murphy,emily.murphy943@example.com,RETAIL,45-54,11,CALL_CENTER,San Antonio,2015-05-30
+CUST-00944,Aisha Murphy,aisha.murphy944@example.com,PREMIER,25-34,1,CALL_CENTER,Plano,2025-03-16
+CUST-00945,Priya Kim,priya.kim945@example.com,RETAIL,45-54,23,BRANCH,El Paso,2003-07-06
+CUST-00946,David Smith,david.smith946@example.com,WEALTH,65+,11,ONLINE,Dallas,2015-10-30
+CUST-00947,Raj Garcia,raj.garcia947@example.com,RETAIL,45-54,13,CALL_CENTER,San Antonio,2012-12-29
+CUST-00948,George Okafor,george.okafor948@example.com,RETAIL,65+,23,CALL_CENTER,El Paso,2003-08-29
+CUST-00949,Wei Lopez,wei.lopez949@example.com, PREMIER ,45-54,10,CALL_CENTER,Arlington,2015-11-28
+CUST-00950,Grace Walsh,grace.walsh950@example.com,Retail,65+,7,CALL_CENTER,Denton,2019-08-11
+CUST-00951,Amara Murphy,amara.murphy951@example.com,PREMIER,65+,25,CALL_CENTER,Houston,2001-06-20
+CUST-00952,Wei Walsh,wei.walsh952@example.com,RETAIL,55-64,16,CALL_CENTER,San Antonio,2010-09-23
+CUST-00953,Liam Clarke,liam.clarke953@example.com,PREMIER,45-54,24,MOBILE,Frisco,2002-04-29
+CUST-00954,Sophie Evans,sophie.evans954@example.com,RETAIL,65+,3,CALL_CENTER,El Paso,2023-09-09
+CUST-00955,Aisha Wilson,aisha.wilson955@example.com,premier,55-64,13,MOBILE,Houston,2013-01-16
+CUST-00956,George Nguyen,george.nguyen956@example.com,RETAIL,55-64,12,MOBILE,Fort Worth,2013-11-25
+CUST-00957,Priya Clarke,priya.clarke957@example.com,RETAIL,45-54,15,BRANCH,Houston,2011-05-31
+CUST-00958,Wei Okafor,wei.okafor958@example.com,RETAIL,65+,22,CALL_CENTER,San Antonio,2003-11-16
+CUST-00959,Mohammed Lopez,mohammed.lopez959@example.com,retail,35-44,7,MOBILE,Plano,2019-02-26
+CUST-00960,David Garcia,david.garcia960@example.com,RETAIL,65+,2,MOBILE,Plano,2024-08-05
+CUST-00961,James Walsh,james.walsh961@example.com,RETAIL,45-54,14,CALL_CENTER,San Antonio,2011-11-26
+CUST-00962,Carlos Okafor,carlos.okafor962@example.com,Retail,35-44,7,CALL_CENTER,Plano,2018-11-13
+CUST-00963,Olivia Ahmed,olivia.ahmed963@example.com,RETAIL,25-34,19,MOBILE,Arlington,2007-08-31
+CUST-00964,David Taylor,david.taylor964@example.com,Retail,25-34,1,BRANCH,El Paso,2025-05-03
+CUST-00965,Emily Khan,emily.khan965@example.com,PREMIER,18-24,4,ONLINE,Fort Worth,2022-05-07
+CUST-00966,Emily Wilson,emily.wilson966@example.com,RETAIL,35-44,13,MOBILE,Austin,2013-07-05
+CUST-00967,George Patel,george.patel967@example.com,PREMIER,18-24,21,CALL_CENTER,Arlington,2005-04-28
+CUST-00968,John Brown,john.brown968@example.com,RETAIL,55-64,22,BRANCH,El Paso,2004-02-23
+CUST-00969,Mohammed Brown,mohammed.brown969@example.com,PREMIER,25-34,6,CALL_CENTER,Plano,2020-04-23
+CUST-00970,Liam Patel,liam.patel970@example.com,RETAIL,55-64,18,BRANCH,Dallas,2008-08-06
+CUST-00971,John Kim,john.kim971@example.com,PREMIER,18-24,18,MOBILE,Austin,2007-12-11
+CUST-00972,Amara Smith,amara.smith972@example.com,RETAIL,25-34,11,CALL_CENTER,El Paso,2015-09-06
+CUST-00973,Mei Evans,mei.evans973@example.com,PREMIER,55-64,2,MOBILE,Frisco,2024-09-22
+CUST-00974,Emily Smith,emily.smith974@example.com,RETAIL,45-54,2,MOBILE,Houston,2024-02-13
+CUST-00975,Grace Murphy,grace.murphy975@example.com,RETAIL,65+,12,CALL_CENTER,Austin,2014-01-01
+CUST-00976,Sophie Jones,sophie.jones976@example.com,RETAIL,55-64,10,ONLINE,El Paso,2016-07-19
+CUST-00977,Mohammed Wilson,mohammed.wilson977@example.com,RETAIL,25-34,14,BRANCH,Houston,2012-09-30
+CUST-00978,Raj Patel,raj.patel978@example.com,PREMIER,18-24,22,ONLINE,Fort Worth,2004-04-06
+CUST-00979,David Singh,david.singh979@example.com,RETAIL,35-44,21,BRANCH,Plano,2005-02-21
+CUST-00980,George Smith,george.smith980@example.com,Wealth,55-64,8,BRANCH,Frisco,2018-09-28
+CUST-00981,John Murphy,john.murphy981@example.com,RETAIL,25-34,12,ONLINE,Fort Worth,2014-05-21
+CUST-00982,James Brown,james.brown982@example.com, RETAIL ,65+,8,ONLINE,Denton,2018-04-27
+CUST-00983,Grace Brown,grace.brown983@example.com,RETAIL,18-24,23,CALL_CENTER,Frisco,2003-01-22
+CUST-00984,Amara Murphy,amara.murphy984@example.com,PREMIER,45-54,13,BRANCH,Frisco,2013-08-07
+CUST-00985,Wei Evans,wei.evans985@example.com,RETAIL,65+,17,ONLINE,Fort Worth,2009-08-21
+CUST-00986,Mary Singh,mary.singh986@example.com,RETAIL,35-44,8,BRANCH,Arlington,2017-11-24
+CUST-00987,Carlos Okafor,carlos.okafor987@example.com,RETAIL,18-24,14,ONLINE,Austin,2012-02-15
+CUST-00988,Emily Murphy,emily.murphy988@example.com,PREMIER,25-34,21,CALL_CENTER,Austin,2005-09-30
+CUST-00989,John Okafor,john.okafor989@example.com,RETAIL,65+,16,MOBILE,Plano,2010-11-03
+CUST-00990,Grace Lopez,grace.lopez990@example.com,retail,25-34,22,CALL_CENTER,Plano,2004-02-11
+CUST-00991,Emily Walsh,emily.walsh991@example.com,RETAIL,18-24,8,BRANCH,Frisco,2017-12-03
+CUST-00992,Amara Kim,amara.kim992@example.com,PREMIER,18-24,6,BRANCH,Fort Worth,2020-09-28
+CUST-00993,Grace Clarke,grace.clarke993@example.com,RETAIL,18-24,4,ONLINE,Austin,2022-05-16
+CUST-00994,Olivia Lopez,olivia.lopez994@example.com,RETAIL,35-44,7,CALL_CENTER,El Paso,2019-11-05
+CUST-00995,Raj Lopez,raj.lopez995@example.com,RETAIL,18-24,1,ONLINE,Houston,2024-12-24
+CUST-00996,Amara Clarke,amara.clarke996@example.com,RETAIL,25-34,4,BRANCH,Denton,2022-03-30
+CUST-00997,Priya Lopez,priya.lopez997@example.com,RETAIL,35-44,25,ONLINE,Arlington,2000-12-09
+CUST-00998,Emily Khan,emily.khan998@example.com, RETAIL ,35-44,9,BRANCH,Arlington,2017-09-12
+CUST-00999,James Singh,james.singh999@example.com,premier,45-54,23,BRANCH,Houston,2003-08-01
+CUST-01000,Liam Jones,liam.jones1000@example.com,Retail,45-54,7,BRANCH,Houston,2019-03-06
+CUST-00820,John Jones,john.jones820@example.com,RETAIL,55-64,5,BRANCH,Denton,2021-03-07
+CUST-00699,Amara Clarke,amara.clarke699@example.com,RETAIL,35-44,16,BRANCH,Houston,2010-10-18
+CUST-00732,Liam Clarke,liam.clarke732@example.com,RETAIL,25-34,12,MOBILE,Dallas,2014-05-09
+CUST-00131,Priya Singh,priya.singh131@example.com,PREMIER,45-54,12,CALL_CENTER,El Paso,2014-09-10
+CUST-00333,Wei Taylor,wei.taylor333@example.com,PREMIER,35-44,12,CALL_CENTER,Denton,2013-11-21
+CUST-00770,Mohammed Evans,mohammed.evans770@example.com,RETAIL,25-34,14,BRANCH,Arlington,2012-08-15
+CUST-00783,Olivia Ahmed,olivia.ahmed783@example.com,RETAIL,35-44,16,MOBILE,Fort Worth,2010-06-08
+CUST-00800,Olivia Garcia,olivia.garcia800@example.com,RETAIL,25-34,2,MOBILE,Houston,2024-10-26
+CUST-00903,Grace Nguyen,grace.nguyen903@example.com,WEALTH,55-64,18,ONLINE,Denton,2008-09-07
+CUST-00410,Grace Khan,grace.khan410@example.com,retail,25-34,16,BRANCH,Houston,2010-05-28
+CUST-00514,Olivia Walsh,olivia.walsh514@example.com,Premier,18-24,14,BRANCH,Fort Worth,2012-08-03
+CUST-00744,Wei Taylor,wei.taylor744@example.com,RETAIL,18-24,10,MOBILE,Plano,2016-03-14
