@@ -88,9 +88,12 @@ def pt(v):
 class Slide:
     """Collects the requests for one slide."""
 
-    def __init__(self, sid, bg=OAT):
+    def __init__(self, sid, bg=OAT, index=None):
         self.sid, self.reqs, self.k, self.notes = sid, [], 0, ""
-        self.reqs.append({"createSlide": {"objectId": sid, "slideLayoutReference": {"predefinedLayout": "BLANK"}}})
+        cs = {"objectId": sid, "slideLayoutReference": {"predefinedLayout": "BLANK"}}
+        if index is not None:
+            cs["insertionIndex"] = index
+        self.reqs.append({"createSlide": cs})
         self.reqs.append({"updatePageProperties": {"objectId": sid, "fields": "pageBackgroundFill.solidFill.color",
                                                    "pageProperties": {"pageBackgroundFill": {"solidFill": {"color": {"rgbColor": rgb(bg)}}}}}})
 
@@ -242,6 +245,37 @@ def story_slide(s: Slide):
         y = 188 + i * 44
         s.line(40, y, 420, y, color=RULE)
         s.text(40, y + 8, 380, 34, f"“{q}”", size=12.5, font=SERIF, italic=True, color=INK)
+
+
+def kpi_slide(s: Slide):
+    s.eyebrow(40, 36, "The KPIs")
+    s.text(40, 52, 640, 40, "Four numbers the VP watches", size=28, font=SERIF, color=INK)
+    s.text(40, 94, 640, 34, "Every question today comes back to these. Notice how precise each definition is: "
+           "that precision is exactly what you'll teach the AI in Labs 6 and 7.", size=11, color=BODY, spacing=135)
+    kpis = [
+        ("NPS", "Net Promoter Score", "How likely are customers to recommend us?",
+         "% of promoters (score 9–10) minus % of detractors (0–6). From −100 to +100.",
+         "It's not the average score."),
+        ("Complaints", "Complaint volume", "How many complaints, and how many are still open?",
+         "Cases where case_type is COMPLAINT. Open = not resolved yet.",
+         "Service requests aren't complaints."),
+        ("SLA breach rate", "8-week deadline", "Are we missing the deadline?",
+         "Complaints resolved after their 56-day deadline ÷ all resolved complaints.",
+         "Open complaints aren't counted."),
+        ("FCR", "First-contact resolution", "Do we fix it the first time?",
+         "Contacts resolved during that first contact ÷ all contacts.",
+         "Escalated or transferred contacts don't count as resolved."),
+    ]
+    for i, (name, sub, question, calc, trap) in enumerate(kpis):
+        x = 40 + i * 162
+        s.line(x, 144, x + 148, 144, color=INK, weight=1)
+        s.text(x, 152, 148, 26, name, size=17, font=SERIF, color=LAVA)
+        s.text(x, 178, 148, 14, sub.upper(), size=7.5, bold=True, color=MUTED)
+        s.text(x, 196, 148, 40, f"“{question}”", size=10.5, font=SERIF, italic=True, color=INK, spacing=120)
+        s.text(x, 244, 148, 12, "HOW IT'S CALCULATED", size=7.5, bold=True, color=TEAL)
+        s.text(x, 258, 148, 52, calc, size=9.5, color=BODY, spacing=130)
+        s.text(x, 316, 148, 12, "WATCH OUT", size=7.5, bold=True, color=LAVA)
+        s.text(x, 330, 148, 36, trap, size=9.5, color=INK, spacing=130)
 
 
 def data_map_slide(s: Slide):
@@ -586,6 +620,9 @@ NOTES = {
              "the AI needs to know what your words mean. Third, governance: AI has to be safe to use everywhere.",
     "story": "Summit Financial is fictional and all the data is synthetic, so explore freely. Read the four VP questions "
              "out loud: by the end of the day, your agent will answer all of them.",
+    "kpis": "These four KPIs come back all day. Read each 'watch out' out loud: they're the mistakes an AI makes on raw data, "
+            "and fixing them is the point of Labs 6 and 7. Don't share the actual values yet (for example, NPS is 34): "
+            "the Lab 7 before-and-after reveal works better if students discover them.",
     "data": "Five sheets, linked by shared IDs. Walk the chain left to right: customers open cases, cases have contacts, "
             "contacts get surveyed, and complaint conversations get AI summaries. The mess is deliberate: Lab 3 fixes it.",
     "build": "The first half of the day builds the chain: sheets, raw tables, gold tables, then a dashboard and an agent. "
@@ -610,6 +647,7 @@ def build(title):
             ("agenda", lambda s: agenda_slide(s, [(l["n"], l["name"], l["mins"]) for l in LABS]), NOTES["agenda"]),
             ("ideas", three_ideas_slide, NOTES["ideas"]),
             ("story", story_slide, NOTES["story"]),
+            ("kpis", kpi_slide, NOTES["kpis"]),
             ("data", data_map_slide, NOTES["data"]),
             ("build", build_slide, NOTES["build"])]
     for lab in LABS:
